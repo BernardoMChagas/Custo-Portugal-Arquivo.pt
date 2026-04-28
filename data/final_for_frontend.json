@@ -1,0 +1,1655 @@
+{
+  "1996": {
+    "habitacao": {
+      "valor_mediana": 812.39,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACTA DA REUNIÃO REALIZADA NO DIA 8 DE JANEIRO DE 1996",
+        "contexto": "Exemplo de habitacao em 1996",
+        "fonte": "coimbranet.ciberbit.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19961220150436/http://coimbranet.ciberbit.pt/coimbranet/acta0108.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19961220150436%2Fhttp%3A%2F%2Fcoimbranet.ciberbit.pt%2Fcoimbranet%2Facta0108.htm"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.65,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACTA DA REUNIÃO REALIZADA NO DIA 8 DE JANEIRO DE 1996",
+        "contexto": "Exemplo de combustivel em 1996",
+        "fonte": "coimbranet.ciberbit.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19961220150436/http://coimbranet.ciberbit.pt/coimbranet/acta0108.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19961220150436%2Fhttp%3A%2F%2Fcoimbranet.ciberbit.pt%2Fcoimbranet%2Facta0108.htm"
+      }
+    },
+    "salario": {
+      "valor_mediana": 271.02,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACTA DA REUNIÃO REALIZADA NO DIA 8 DE JANEIRO DE 1996",
+        "contexto": "Exemplo de salario em 1996",
+        "fonte": "coimbranet.ciberbit.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19961220150436/http://coimbranet.ciberbit.pt/coimbranet/acta0108.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19961220150436%2Fhttp%3A%2F%2Fcoimbranet.ciberbit.pt%2Fcoimbranet%2Facta0108.htm"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.53,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACTA DA REUNIÃO REALIZADA NO DIA 8 DE JANEIRO DE 1996",
+        "contexto": "Exemplo de inflacao em 1996",
+        "fonte": "coimbranet.ciberbit.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19961220150436/http://coimbranet.ciberbit.pt/coimbranet/acta0108.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19961220150436%2Fhttp%3A%2F%2Fcoimbranet.ciberbit.pt%2Fcoimbranet%2Facta0108.htm"
+      }
+    },
+    "ide": 31.3,
+    "ide_componentes": {
+      "habitacao": 0.0,
+      "salario": 100.0,
+      "combustivel": 0.0,
+      "inflacao": 8.7
+    }
+  },
+  "1997": {
+    "habitacao": {
+      "valor_mediana": 875.76,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACTA DA REUNIÃO REALIZADA NO DIA 8 DE JANEIRO DE 1996",
+        "contexto": "Exemplo de habitacao em 1997",
+        "fonte": "coimbranet.ciberbit.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19970301111239/http://coimbranet.ciberbit.pt/CoimbraNET/acta0108.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19970301111239%2Fhttp%3A%2F%2Fcoimbranet.ciberbit.pt%2FCoimbraNET%2Facta0108.htm"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.76,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACTA DA REUNIÃO REALIZADA NO DIA 8 DE JANEIRO DE 1996",
+        "contexto": "Exemplo de combustivel em 1997",
+        "fonte": "coimbranet.ciberbit.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19970301111239/http://coimbranet.ciberbit.pt/CoimbraNET/acta0108.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19970301111239%2Fhttp%3A%2F%2Fcoimbranet.ciberbit.pt%2FCoimbraNET%2Facta0108.htm"
+      }
+    },
+    "salario": {
+      "valor_mediana": 313.14,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACTA DA REUNIÃO REALIZADA NO DIA 8 DE JANEIRO DE 1996",
+        "contexto": "Exemplo de salario em 1997",
+        "fonte": "coimbranet.ciberbit.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19970301111239/http://coimbranet.ciberbit.pt/CoimbraNET/acta0108.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19970301111239%2Fhttp%3A%2F%2Fcoimbranet.ciberbit.pt%2FCoimbraNET%2Facta0108.htm"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.27,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACORDO",
+        "contexto": "Exemplo de inflacao em 1997",
+        "fonte": "www.partido-socialista.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19970709185711/http://www.partido-socialista.pt/ps/regioes/acores/ac1.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19970709185711%2Fhttp%3A%2F%2Fwww.partido-socialista.pt%2Fps%2Fregioes%2Facores%2Fac1.htm"
+      }
+    },
+    "ide": 33.8,
+    "ide_componentes": {
+      "habitacao": 3.5,
+      "salario": 91.2,
+      "combustivel": 8.5,
+      "inflacao": 23.3
+    }
+  },
+  "1998": {
+    "habitacao": {
+      "valor_mediana": 910.68,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Fórum do Desporto",
+        "contexto": "Exemplo de habitacao em 1998",
+        "fonte": "ftp.terravista.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19980422024814/http://ftp.terravista.pt/asp/forum_Desporto.asp",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19980422024814%2Fhttp%3A%2F%2Fftp.terravista.pt%2Fasp%2Fforum_Desporto.asp"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.79,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "",
+        "contexto": "Exemplo de combustivel em 1998",
+        "fonte": "www.isegi.unl.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19980625191157/http://www.isegi.unl.pt/CURSOS/L_TERM/DISCIPLI/economia1/doc\\bemcap1.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19980625191157%2Fhttp%3A%2F%2Fwww.isegi.unl.pt%2FCURSOS%2FL_TERM%2FDISCIPLI%2Feconomia1%2Fdoc%5Cbemcap1.htm"
+      }
+    },
+    "salario": {
+      "valor_mediana": 346.18,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ACTA",
+        "contexto": "Exemplo de salario em 1998",
+        "fonte": "coimbranet.ciberbit.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19980423045826/http://coimbranet.ciberbit.pt/CoimbraNET/acta160398.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19980423045826%2Fhttp%3A%2F%2Fcoimbranet.ciberbit.pt%2FCoimbraNET%2Facta160398.htm"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.35,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Fernão Lopes",
+        "contexto": "Exemplo de inflacao em 1998",
+        "fonte": "www.vidaslusofonas.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19981030103324/http://www.vidaslusofonas.pt/fernao_lopes.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19981030103324%2Fhttp%3A%2F%2Fwww.vidaslusofonas.pt%2Ffernao_lopes.htm"
+      }
+    },
+    "ide": 33.1,
+    "ide_componentes": {
+      "habitacao": 5.4,
+      "salario": 84.4,
+      "combustivel": 10.9,
+      "inflacao": 24.9
+    }
+  },
+  "1999": {
+    "habitacao": {
+      "valor_mediana": 973.44,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "expo",
+        "contexto": "Exemplo de habitacao em 1999",
+        "fonte": "www.publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19991113210208/http://www.publico.pt/dossiers/expo98/expo9809111.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19991113210208%2Fhttp%3A%2F%2Fwww.publico.pt%2Fdossiers%2Fexpo98%2Fexpo9809111.html"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.8,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "expo",
+        "contexto": "Exemplo de combustivel em 1999",
+        "fonte": "www.publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19991113210208/http://www.publico.pt/dossiers/expo98/expo9809111.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19991113210208%2Fhttp%3A%2F%2Fwww.publico.pt%2Fdossiers%2Fexpo98%2Fexpo9809111.html"
+      }
+    },
+    "salario": {
+      "valor_mediana": 344.82,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "EXPRESSO - Príncipe e plebeu",
+        "contexto": "Exemplo de salario em 1999",
+        "fonte": "www.expresso.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19990930020428/http://www.expresso.pt/ed1327/r421.asp?a",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19990930020428%2Fhttp%3A%2F%2Fwww.expresso.pt%2Fed1327%2Fr421.asp%3Fa"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.09,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Acórdão da Relação de Lisboa de 27.5.99",
+        "contexto": "Exemplo de inflacao em 1999",
+        "fonte": "trl.tre.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/19991116213839/http://trl.tre.pt/jurisp/2036-99-camilo.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F19991116213839%2Fhttp%3A%2F%2Ftrl.tre.pt%2Fjurisp%2F2036-99-camilo.html"
+      }
+    },
+    "ide": 33.8,
+    "ide_componentes": {
+      "habitacao": 8.9,
+      "salario": 84.6,
+      "combustivel": 11.6,
+      "inflacao": 19.7
+    }
+  },
+  "2000": {
+    "habitacao": {
+      "valor_mediana": 1043.08,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "SAPO - Portugal Online!",
+        "contexto": "Exemplo de habitacao em 2000",
+        "fonte": "www.sapo.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20001212234300/http://www.sapo.pt/cgi/pesquisa?kw=centros+comerciais&ar=&selsearch=0&strict=0&fs=620",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20001212234300%2Fhttp%3A%2F%2Fwww.sapo.pt%2Fcgi%2Fpesquisa%3Fkw%3Dcentros%2Bcomerciais%26ar%3D%26selsearch%3D0%26strict%3D0%26fs%3D620"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.78,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "",
+        "contexto": "Exemplo de combustivel em 2000",
+        "fonte": "www.apotec.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20001121171500/http://www.apotec.pt/smaio.txt",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20001121171500%2Fhttp%3A%2F%2Fwww.apotec.pt%2Fsmaio.txt"
+      }
+    },
+    "salario": {
+      "valor_mediana": 350.06,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "GOVERNO",
+        "contexto": "Exemplo de salario em 2000",
+        "fonte": "www.accaosocialista.net",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20000521120950/http://www.accaosocialista.net/99/1043_25_11_1999/GOVERNO.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20000521120950%2Fhttp%3A%2F%2Fwww.accaosocialista.net%2F99%2F1043_25_11_1999%2FGOVERNO.htm"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.36,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Outras Paginas",
+        "contexto": "Exemplo de inflacao em 2000",
+        "fonte": "jnoticias.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20000118121558/http://jnoticias.pt/eddia/nortsul3.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20000118121558%2Fhttp%3A%2F%2Fjnoticias.pt%2Feddia%2Fnortsul3.htm"
+      }
+    },
+    "ide": 35.3,
+    "ide_componentes": {
+      "habitacao": 12.8,
+      "salario": 83.6,
+      "combustivel": 10.1,
+      "inflacao": 25.0
+    }
+  },
+  "2001": {
+    "habitacao": {
+      "valor_mediana": 1135.56,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Icep Portugal - Portugalnews",
+        "contexto": "Exemplo de habitacao em 2001",
+        "fonte": "www.portugalnews.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20010906183210/http://www.portugalnews.pt/icep/art_tema.asp?id_tema=2315&codigo_seccao=0",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20010906183210%2Fhttp%3A%2F%2Fwww.portugalnews.pt%2Ficep%2Fart_tema.asp%3Fid_tema%3D2315%26codigo_seccao%3D0"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.83,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Crédito Predial Net B@nco - Perguntas e Respostas",
+        "contexto": "Exemplo de combustivel em 2001",
+        "fonte": "netbanco.cpp.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20011121163040/http://netbanco.cpp.pt/cpp/products/details.xml?parent=302&id=313&selMenu=6",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20011121163040%2Fhttp%3A%2F%2Fnetbanco.cpp.pt%2Fcpp%2Fproducts%2Fdetails.xml%3Fparent%3D302%26id%3D313%26selMenu%3D6"
+      }
+    },
+    "salario": {
+      "valor_mediana": 353.89,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Winterthur - Companhia Europeia de Seguros - Área Cliente",
+        "contexto": "Exemplo de salario em 2001",
+        "fonte": "www.winterthur.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20011224164610/http://www.winterthur.pt/cliente/euro/coins.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20011224164610%2Fhttp%3A%2F%2Fwww.winterthur.pt%2Fcliente%2Feuro%2Fcoins.htm"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.47,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Portugal Telecom - Quem Somos",
+        "contexto": "Exemplo de inflacao em 2001",
+        "fonte": "www.portugal-telecom.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20010709134945/http://www.portugal-telecom.pt/quemsomos/noticias/result_09_1999.asp",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20010709134945%2Fhttp%3A%2F%2Fwww.portugal-telecom.pt%2Fquemsomos%2Fnoticias%2Fresult_09_1999.asp"
+      }
+    },
+    "ide": 38.0,
+    "ide_componentes": {
+      "habitacao": 17.9,
+      "salario": 82.8,
+      "combustivel": 14.0,
+      "inflacao": 27.2
+    }
+  },
+  "2002": {
+    "habitacao": {
+      "valor_mediana": 1173.62,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "index11 VIII JORNADAS DE CONTABILIDADE E FISCALIDADE",
+        "contexto": "Exemplo de habitacao em 2002",
+        "fonte": "www.cidadevirtual.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20020220215703/http://www.cidadevirtual.pt/croc/eu_11.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20020220215703%2Fhttp%3A%2F%2Fwww.cidadevirtual.pt%2Fcroc%2Feu_11.html"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.89,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Icep Portugal - Portugalnews",
+        "contexto": "Exemplo de combustivel em 2002",
+        "fonte": "www3.portugalnet.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20020321001206/http://www3.portugalnet.pt/icep/artigo.asp?cod_artigo=60226",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20020321001206%2Fhttp%3A%2F%2Fwww3.portugalnet.pt%2Ficep%2Fartigo.asp%3Fcod_artigo%3D60226"
+      }
+    },
+    "salario": {
+      "valor_mediana": 381.28,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Oni",
+        "contexto": "Exemplo de salario em 2002",
+        "fonte": "oni.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20021209105805/http://oni.pt/noticiascomunicados.asp?mes=4&cat=216",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20021209105805%2Fhttp%3A%2F%2Foni.pt%2Fnoticiascomunicados.asp%3Fmes%3D4%26cat%3D216"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.91,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Portal Jovem",
+        "contexto": "Exemplo de inflacao em 2002",
+        "fonte": "www.jovem.te.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20020613030700/http://www.jovem.te.pt/servlets/Saber?P=Dossiers&ID=1587",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20020613030700%2Fhttp%3A%2F%2Fwww.jovem.te.pt%2Fservlets%2FSaber%3FP%3DDossiers%26ID%3D1587"
+      }
+    },
+    "ide": 36.3,
+    "ide_componentes": {
+      "habitacao": 20.0,
+      "salario": 77.1,
+      "combustivel": 18.6,
+      "inflacao": 16.2
+    }
+  },
+  "2003": {
+    "habitacao": {
+      "valor_mediana": 1148.31,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Gilson Monteiro , A METALINGUAGEM DAS ROUPAS",
+        "contexto": "Exemplo de habitacao em 2003",
+        "fonte": "bocc.ubi.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20030725090541/http://bocc.ubi.pt/pag/monteiro-gilson-roupas.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20030725090541%2Fhttp%3A%2F%2Fbocc.ubi.pt%2Fpag%2Fmonteiro-gilson-roupas.html"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.89,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "PDF995, Job 149",
+        "contexto": "Exemplo de combustivel em 2003",
+        "fonte": "www.cm-peniche.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20031123095441/http://www.cm-peniche.pt/camara%20municipal/ActasAnti/1Sem2002.PDF",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20031123095441%2Fhttp%3A%2F%2Fwww.cm-peniche.pt%2Fcamara%2520municipal%2FActasAnti%2F1Sem2002.PDF"
+      }
+    },
+    "salario": {
+      "valor_mediana": 381.06,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "A M I P - Associação das Mediadoras Imobiliárias de Portugal",
+        "contexto": "Exemplo de salario em 2003",
+        "fonte": "www.amip.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20030327064604/http://www.amip.pt/Congressos.asp",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20030327064604%2Fhttp%3A%2F%2Fwww.amip.pt%2FCongressos.asp"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.04,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Projecto Vercial",
+        "contexto": "Exemplo de inflacao em 2003",
+        "fonte": "www.ipn.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20030225045620/http://www.ipn.pt/opsis/litera/daniels2.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20030225045620%2Fhttp%3A%2F%2Fwww.ipn.pt%2Fopsis%2Flitera%2Fdaniels2.htm"
+      }
+    },
+    "ide": 36.2,
+    "ide_componentes": {
+      "habitacao": 18.6,
+      "salario": 77.1,
+      "combustivel": 18.6,
+      "inflacao": 18.7
+    }
+  },
+  "2004": {
+    "habitacao": {
+      "valor_mediana": 1278.9,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "WalkInFinance - Comentários de Bolsa",
+        "contexto": "Exemplo de habitacao em 2004",
+        "fonte": "wif.portugalmail.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20040207054359/http://wif.portugalmail.pt/bolsa/comentarios.asp",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20040207054359%2Fhttp%3A%2F%2Fwif.portugalmail.pt%2Fbolsa%2Fcomentarios.asp"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.92,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Estudo sobre o golfe no Algarve",
+        "contexto": "Exemplo de combustivel em 2004",
+        "fonte": "www.ualg.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20041026190018/http://www.ualg.pt/anuncios/Divulgacao/golfe/GolfeCenarios.PDF",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20041026190018%2Fhttp%3A%2F%2Fwww.ualg.pt%2Fanuncios%2FDivulgacao%2Fgolfe%2FGolfeCenarios.PDF"
+      }
+    },
+    "salario": {
+      "valor_mediana": 413.31,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "BdE - Blogue de Esquerda (II): junho 2004 Arquivo",
+        "contexto": "Exemplo de salario em 2004",
+        "fonte": "bde.weblog.com.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20040708131829/http://bde.weblog.com.pt/arquivo/2004_06.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20040708131829%2Fhttp%3A%2F%2Fbde.weblog.com.pt%2Farquivo%2F2004_06.html"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.94,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Último Reduto: julho 2004 Arquivo",
+        "contexto": "Exemplo de inflacao em 2004",
+        "fonte": "ultimoreduto.weblog.com.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20040822030844/http://ultimoreduto.weblog.com.pt/arquivo/2004_07.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20040822030844%2Fhttp%3A%2F%2Fultimoreduto.weblog.com.pt%2Farquivo%2F2004_07.html"
+      }
+    },
+    "ide": 39.8,
+    "ide_componentes": {
+      "habitacao": 25.8,
+      "salario": 70.4,
+      "combustivel": 20.9,
+      "inflacao": 36.5
+    }
+  },
+  "2005": {
+    "habitacao": {
+      "valor_mediana": 1413.0,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ImpertinÃªncias",
+        "contexto": "Exemplo de habitacao em 2005",
+        "fonte": "www.impertinencias.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20050621082800/http://www.impertinencias.blogspot.com/2004_09_01_impertinencias_archive.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20050621082800%2Fhttp%3A%2F%2Fwww.impertinencias.blogspot.com%2F2004_09_01_impertinencias_archive.html"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 0.94,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "www.franchising.pt",
+        "contexto": "Exemplo de combustivel em 2005",
+        "fonte": "www.franchising.com.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20050329195118/http://www.franchising.com.pt/portal/site/varios/trabalho/frch4a.asp",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20050329195118%2Fhttp%3A%2F%2Fwww.franchising.com.pt%2Fportal%2Fsite%2Fvarios%2Ftrabalho%2Ffrch4a.asp"
+      }
+    },
+    "salario": {
+      "valor_mediana": 405.86,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "REPORTAGENS AMBIENTAIS",
+        "contexto": "Exemplo de salario em 2005",
+        "fonte": "estragodanacao2.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20050602143829/http://estragodanacao2.blogspot.com/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20050602143829%2Fhttp%3A%2F%2Festragodanacao2.blogspot.com%2F"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.85,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Informação - O cenário de guerra, o petróleo e Portugal - Rádio Renascença",
+        "contexto": "Exemplo de inflacao em 2005",
+        "fonte": "www.rr.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20050224004323/http://www.rr.pt/noticia.asp?idnoticia=67045",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20050224004323%2Fhttp%3A%2F%2Fwww.rr.pt%2Fnoticia.asp%3Fidnoticia%3D67045"
+      }
+    },
+    "ide": 42.9,
+    "ide_componentes": {
+      "habitacao": 33.2,
+      "salario": 71.9,
+      "combustivel": 22.5,
+      "inflacao": 34.7
+    }
+  },
+  "2006": {
+    "habitacao": {
+      "valor_mediana": 1399.07,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Microsoft Word - subcapa.doc",
+        "contexto": "Exemplo de habitacao em 2006",
+        "fonte": "www.scml.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20060928204909/http://www.scml.pt/direscrita/media/relatorio2005.pdf",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20060928204909%2Fhttp%3A%2F%2Fwww.scml.pt%2Fdirescrita%2Fmedia%2Frelatorio2005.pdf"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.0,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Microsoft Word - Relatóri.doc",
+        "contexto": "Exemplo de combustivel em 2006",
+        "fonte": "www.provedor-jus.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20061107051719/http://www.provedor-jus.pt/restrito/pub_ficheiros/Relatorio1997.pdf",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20061107051719%2Fhttp%3A%2F%2Fwww.provedor-jus.pt%2Frestrito%2Fpub_ficheiros%2FRelatorio1997.pdf"
+      }
+    },
+    "salario": {
+      "valor_mediana": 470.34,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "DN Online: FMI avisa que preço do petróleo pode chegar aos 100 dólares o barril",
+        "contexto": "Exemplo de salario em 2006",
+        "fonte": "dn.sapo.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20060108111836/http://dn.sapo.pt/2005/04/09/negocios/fmi_avisa_preco_petroleo_pode_chegar.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20060108111836%2Fhttp%3A%2F%2Fdn.sapo.pt%2F2005%2F04%2F09%2Fnegocios%2Ffmi_avisa_preco_petroleo_pode_chegar.html"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.19,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Casa.Sapo - Portal Nacional de Imobiliário - Notícias",
+        "contexto": "Exemplo de inflacao em 2006",
+        "fonte": "casa.sapo.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20061130162216/http://casa.sapo.pt/News/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20061130162216%2Fhttp%3A%2F%2Fcasa.sapo.pt%2FNews%2F"
+      }
+    },
+    "ide": 34.6,
+    "ide_componentes": {
+      "habitacao": 32.5,
+      "salario": 58.5,
+      "combustivel": 27.1,
+      "inflacao": 2.0
+    }
+  },
+  "2007": {
+    "habitacao": {
+      "valor_mediana": 1455.64,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "",
+        "contexto": "Exemplo de habitacao em 2007",
+        "fonte": "dre.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20070128225305/http://dre.pt/pdfgratis2sa5/2007/01/2S018A0000S02.pdf",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20070128225305%2Fhttp%3A%2F%2Fdre.pt%2Fpdfgratis2sa5%2F2007%2F01%2F2S018A0000S02.pdf"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.11,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "_::___ IMOBRETANHA_Mediação Imobiliária AMI 4680 ___::_",
+        "contexto": "Exemplo de combustivel em 2007",
+        "fonte": "www.imobretanha.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20070320040321/http://www.imobretanha.pt/_noticias.php?id_noticia=37",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20070320040321%2Fhttp%3A%2F%2Fwww.imobretanha.pt%2F_noticias.php%3Fid_noticia%3D37"
+      }
+    },
+    "salario": {
+      "valor_mediana": 479.25,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "parteII_cap2",
+        "contexto": "Exemplo de salario em 2007",
+        "fonte": "ue2007.ine.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20070705210030/http://ue2007.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=5605205&att_display=n&att_download=y",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20070705210030%2Fhttp%3A%2F%2Fue2007.ine.pt%2Fngt_server%2Fattachfileu.jsp%3Flook_parentBoui%3D5605205%26att_display%3Dn%26att_download%3Dy"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.53,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Noticias",
+        "contexto": "Exemplo de inflacao em 2007",
+        "fonte": "imobiliario.publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20070524064233/http://imobiliario.publico.pt/cgi-bin/not_1.asp?",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20070524064233%2Fhttp%3A%2F%2Fimobiliario.publico.pt%2Fcgi-bin%2Fnot_1.asp%3F"
+      }
+    },
+    "ide": 37.9,
+    "ide_componentes": {
+      "habitacao": 35.6,
+      "salario": 56.7,
+      "combustivel": 35.7,
+      "inflacao": 8.7
+    }
+  },
+  "2008": {
+    "habitacao": {
+      "valor_mediana": 1377.84,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Comments on: A crise financeira americana: ergodicidade e resiliência",
+        "contexto": "Exemplo de habitacao em 2008",
+        "fonte": "aguiarconraria.blogsome.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20081022095654/http://aguiarconraria.blogsome.com/2008/04/06/a-crise-financeira-americana-ergodicidade-e-resiliencia/feed/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20081022095654%2Fhttp%3A%2F%2Faguiarconraria.blogsome.com%2F2008%2F04%2F06%2Fa-crise-financeira-americana-ergodicidade-e-resiliencia%2Ffeed%2F"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.38,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Salário mínimo nacional 2006",
+        "contexto": "Exemplo de combustivel em 2008",
+        "fonte": "www.dgert.mtss.gov.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20080312043747/http://www.dgert.mtss.gov.pt/Trabalho/rendimentos/smn_2006.htm",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20080312043747%2Fhttp%3A%2F%2Fwww.dgert.mtss.gov.pt%2FTrabalho%2Frendimentos%2Fsmn_2006.htm"
+      }
+    },
+    "salario": {
+      "valor_mediana": 448.95,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "11 de Março de 2008 - The Last Pirate Standing",
+        "contexto": "Exemplo de salario em 2008",
+        "fonte": "lastpiratestanding.blogs.sapo.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20080331064113/http://lastpiratestanding.blogs.sapo.pt/2008/03/11/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20080331064113%2Fhttp%3A%2F%2Flastpiratestanding.blogs.sapo.pt%2F2008%2F03%2F11%2F"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.9,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "EXPRESSO",
+        "contexto": "Exemplo de inflacao em 2008",
+        "fonte": "aeiou.semanal.expresso.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20081023064931/http://aeiou.semanal.expresso.pt/2caderno/breves.asp?edition=1853",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20081023064931%2Fhttp%3A%2F%2Faeiou.semanal.expresso.pt%2F2caderno%2Fbreves.asp%3Fedition%3D1853"
+      }
+    },
+    "ide": 43.6,
+    "ide_componentes": {
+      "habitacao": 31.3,
+      "salario": 63.0,
+      "combustivel": 56.6,
+      "inflacao": 16.0
+    }
+  },
+  "2009": {
+    "habitacao": {
+      "valor_mediana": 1496.23,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Ouro sobre Azul",
+        "contexto": "Exemplo de habitacao em 2009",
+        "fonte": "www.ourosobreazul.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20091004024601/http://www.ourosobreazul.blogspot.com/2008_08_01_archive.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20091004024601%2Fhttp%3A%2F%2Fwww.ourosobreazul.blogspot.com%2F2008_08_01_archive.html"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.36,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Dialógico: A crise de Wall Street equivale à queda do Muro de Berlim",
+        "contexto": "Exemplo de combustivel em 2009",
+        "fonte": "dialogico.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20091007074919/http://dialogico.blogspot.com/2008/09/crise-de-wall-street-equivale-queda-do.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20091007074919%2Fhttp%3A%2F%2Fdialogico.blogspot.com%2F2008%2F09%2Fcrise-de-wall-street-equivale-queda-do.html"
+      }
+    },
+    "salario": {
+      "valor_mediana": 471.64,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "MAIActual: Pequenas notas sobre a receita portuguesa para a crise...",
+        "contexto": "Exemplo de salario em 2009",
+        "fonte": "maiactual.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20091005180524/http://maiactual.blogspot.com/2009/01/pequenas-notas-sobre-receita-portuguesa.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20091005180524%2Fhttp%3A%2F%2Fmaiactual.blogspot.com%2F2009%2F01%2Fpequenas-notas-sobre-receita-portuguesa.html"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.09,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Oje - o Jornal Economico - Economia",
+        "contexto": "Exemplo de inflacao em 2009",
+        "fonte": "oje.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20090523193056/http://oje.pt/ultimas/noticias/economia/120",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20090523193056%2Fhttp%3A%2F%2Foje.pt%2Fultimas%2Fnoticias%2Feconomia%2F120"
+      }
+    },
+    "ide": 41.8,
+    "ide_componentes": {
+      "habitacao": 37.9,
+      "salario": 58.3,
+      "combustivel": 55.0,
+      "inflacao": 0.0
+    }
+  },
+  "2010": {
+    "habitacao": {
+      "valor_mediana": 1325.32,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Setembro 2008 - Câmara de Comuns",
+        "contexto": "Exemplo de habitacao em 2010",
+        "fonte": "camaradecomuns.blogs.sapo.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20100808082138/http://camaradecomuns.blogs.sapo.pt/2008/09/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20100808082138%2Fhttp%3A%2F%2Fcamaradecomuns.blogs.sapo.pt%2F2008%2F09%2F"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.53,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Intergalacticrobot: Janeiro 2008",
+        "contexto": "Exemplo de combustivel em 2010",
+        "fonte": "intergalacticrobot.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20100803150730/http://intergalacticrobot.blogspot.com/2008_01_01_archive.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20100803150730%2Fhttp%3A%2F%2Fintergalacticrobot.blogspot.com%2F2008_01_01_archive.html"
+      }
+    },
+    "salario": {
+      "valor_mediana": 468.6,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "O Arquivo: Gasolina: Portugueses pagam ao fisco 80 cêntimos por litro",
+        "contexto": "Exemplo de salario em 2010",
+        "fonte": "parasitasdedeus.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20100805223336/http://parasitasdedeus.blogspot.com/2010/02/gasolina-portugueses-pagam-ao-fisco-80.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20100805223336%2Fhttp%3A%2F%2Fparasitasdedeus.blogspot.com%2F2010%2F02%2Fgasolina-portugueses-pagam-ao-fisco-80.html"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.45,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Público - José Sócrates admite governar em minoria e garante o aumento do salário mínimo para 450 eu",
+        "contexto": "Exemplo de inflacao em 2010",
+        "fonte": "dunazulx.spaces.live.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20100808231234/http://dunazulx.spaces.live.com/blog/cns!E3F29B1545515506!3281.entry",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20100808231234%2Fhttp%3A%2F%2Fdunazulx.spaces.live.com%2Fblog%2Fcns%21E3F29B1545515506%213281.entry"
+      }
+    },
+    "ide": 42.3,
+    "ide_componentes": {
+      "habitacao": 28.4,
+      "salario": 58.9,
+      "combustivel": 68.2,
+      "inflacao": 7.1
+    }
+  },
+  "2011": {
+    "habitacao": {
+      "valor_mediana": 1191.4,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Millennium bcp",
+        "contexto": "Exemplo de habitacao em 2011",
+        "fonte": "www.cisf-veiculos.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20110708000344/http://www.cisf-veiculos.pt/site/conteudos/60/dossiers/article.jhtml?articleID=687332",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20110708000344%2Fhttp%3A%2F%2Fwww.cisf-veiculos.pt%2Fsite%2Fconteudos%2F60%2Fdossiers%2Farticle.jhtml%3FarticleID%3D687332"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.5,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Austeridade empurra salários e consumo para queda histórica - Economia - PUBLICO.PT",
+        "contexto": "Exemplo de combustivel em 2011",
+        "fonte": "economia.publico.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20110522093726/http://economia.publico.pt/Noticia/austeridade-empurra-salarios-e-consumo-para-queda-historica_1494150",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20110522093726%2Fhttp%3A%2F%2Feconomia.publico.pt%2FNoticia%2Fausteridade-empurra-salarios-e-consumo-para-queda-historica_1494150"
+      }
+    },
+    "salario": {
+      "valor_mediana": 477.4,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Millennium bcp",
+        "contexto": "Exemplo de salario em 2011",
+        "fonte": "www.millenniumbcp.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20110530053733/http://www.millenniumbcp.pt/site/conteudos/60/dossiers/article.jhtml?articleID=687332",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20110530053733%2Fhttp%3A%2F%2Fwww.millenniumbcp.pt%2Fsite%2Fconteudos%2F60%2Fdossiers%2Farticle.jhtml%3FarticleID%3D687332"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 6.16,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Paz, Felicidade e Amor: Viver bem apesar da crise",
+        "contexto": "Exemplo de inflacao em 2011",
+        "fonte": "mariaafonsosancho.blogspot.com",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20110524195144/http://mariaafonsosancho.blogspot.com/2009/01/viver-bem-apesar-da-crise.html?showComment=1232488500000",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20110524195144%2Fhttp%3A%2F%2Fmariaafonsosancho.blogspot.com%2F2009%2F01%2Fviver-bem-apesar-da-crise.html%3FshowComment%3D1232488500000"
+      }
+    },
+    "ide": 52.7,
+    "ide_componentes": {
+      "habitacao": 21.0,
+      "salario": 57.1,
+      "combustivel": 65.9,
+      "inflacao": 100.0
+    }
+  },
+  "2012": {
+    "habitacao": {
+      "valor_mediana": 1227.56,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Net Centro - Nova lei do arrendamento aprovada até ao final do ano",
+        "contexto": "Exemplo de habitacao em 2012",
+        "fonte": "netcentro.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20120121110039/http://netcentro.pt/Conteudos/Artigos/detalhe.aspx?idc=1268&idl=1&idi=21705",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20120121110039%2Fhttp%3A%2F%2Fnetcentro.pt%2FConteudos%2FArtigos%2Fdetalhe.aspx%3Fidc%3D1268%26idl%3D1%26idi%3D21705"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.62,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Do Portugal Profundo",
+        "contexto": "Exemplo de combustivel em 2012",
+        "fonte": "doportugalprofundo.blogspot.com",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20120121041424/http://doportugalprofundo.blogspot.com/search?updated-max=2011-07-14T09:35:00%2B01:00&max-results=10&reverse-paginate=true",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20120121041424%2Fhttp%3A%2F%2Fdoportugalprofundo.blogspot.com%2Fsearch%3Fupdated-max%3D2011-07-14T09%3A35%3A00%252B01%3A00%26max-results%3D10%26reverse-paginate%3Dtrue"
+      }
+    },
+    "salario": {
+      "valor_mediana": 461.44,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Destak.pt | Habitação: Valor da avaliação bancária em queda em Maio",
+        "contexto": "Exemplo de salario em 2012",
+        "fonte": "www.destak.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20120107041113/http://www.destak.pt/artigo/99518",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20120107041113%2Fhttp%3A%2F%2Fwww.destak.pt%2Fartigo%2F99518"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 4.33,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Pesquisa RTP",
+        "contexto": "Exemplo de inflacao em 2012",
+        "fonte": "pesquisa.rtp.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20120201041033/http://pesquisa.rtp.pt/default.aspx?relid=408037&ind=Not%C3%ADcias",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20120201041033%2Fhttp%3A%2F%2Fpesquisa.rtp.pt%2Fdefault.aspx%3Frelid%3D408037%26ind%3DNot%25C3%25ADcias"
+      }
+    },
+    "ide": 50.8,
+    "ide_componentes": {
+      "habitacao": 23.0,
+      "salario": 60.4,
+      "combustivel": 75.2,
+      "inflacao": 63.9
+    }
+  },
+  "2013": {
+    "habitacao": {
+      "valor_mediana": 1060.29,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Seguro não cria ilusões sobre descida do desemprego – TVI24 | Notícias de Portugal",
+        "contexto": "Exemplo de habitacao em 2013",
+        "fonte": "noticias.netglobo.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20131119181953/http://noticias.netglobo.pt/seguro-nao-cria-ilusoes-sobre-descida-do-desemprego-tvi24/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20131119181953%2Fhttp%3A%2F%2Fnoticias.netglobo.pt%2Fseguro-nao-cria-ilusoes-sobre-descida-do-desemprego-tvi24%2F"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.59,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Del Piero, o milanês... - Entrada a p�s juntos - Comunidade Record",
+        "contexto": "Exemplo de combustivel em 2013",
+        "fonte": "comunidade.xl.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20131106052903/http://comunidade.xl.pt/Record/blogs/entradaapesjuntos/archive/2012/03/21/del-piero-o-milan-234-s.aspx",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20131106052903%2Fhttp%3A%2F%2Fcomunidade.xl.pt%2FRecord%2Fblogs%2Fentradaapesjuntos%2Farchive%2F2012%2F03%2F21%2Fdel-piero-o-milan-234-s.aspx"
+      }
+    },
+    "salario": {
+      "valor_mediana": 466.87,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "A Carta a Garcia: Setembro 2012",
+        "contexto": "Exemplo de salario em 2013",
+        "fonte": "acartaagarcia.blogspot.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20131111000504/http://acartaagarcia.blogspot.pt/2012_09_01_archive.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20131111000504%2Fhttp%3A%2F%2Facartaagarcia.blogspot.pt%2F2012_09_01_archive.html"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.49,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "GESTÃO E AVALIAÇÃO PATRIMONIAL: CASAS PERDEM VALOR",
+        "contexto": "Exemplo de inflacao em 2013",
+        "fonte": "oavaliadoregestorimobiliario.blogspot.pt",
+        "sentimento": "crise",
+        "link_arquivo": "https://arquivo.pt/wayback/20131109110508/http://oavaliadoregestorimobiliario.blogspot.pt/2012/08/casas-perdem-valor.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20131109110508%2Fhttp%3A%2F%2Foavaliadoregestorimobiliario.blogspot.pt%2F2012%2F08%2Fcasas-perdem-valor.html"
+      }
+    },
+    "ide": 41.3,
+    "ide_componentes": {
+      "habitacao": 13.7,
+      "salario": 59.3,
+      "combustivel": 72.9,
+      "inflacao": 27.6
+    }
+  },
+  "2014": {
+    "habitacao": {
+      "valor_mediana": 1088.01,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Do Portugal de Alguns (PONTALUS) ao Portugal de Muitos. - Notícias Online",
+        "contexto": "Exemplo de habitacao em 2014",
+        "fonte": "www.noticiasonline.eu",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20141122212925/http://www.noticiasonline.eu/portugal-de-alguns-pontalus-ao-portugal-de-muitos/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20141122212925%2Fhttp%3A%2F%2Fwww.noticiasonline.eu%2Fportugal-de-alguns-pontalus-ao-portugal-de-muitos%2F"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.65,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "ablogando: Portugal",
+        "contexto": "Exemplo de combustivel em 2014",
+        "fonte": "ab-logando.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20141002010050/http://ab-logando.blogspot.pt/search/label/Portugal?updated-max=2012-08-12T18:28:00%2B01:00&max-results=20&start=73&by-date=false",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20141002010050%2Fhttp%3A%2F%2Fab-logando.blogspot.pt%2Fsearch%2Flabel%2FPortugal%3Fupdated-max%3D2012-08-12T18%3A28%3A00%252B01%3A00%26max-results%3D20%26start%3D73%26by-date%3Dfalse"
+      }
+    },
+    "salario": {
+      "valor_mediana": 521.78,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícias sobre Aviação: Varig provoca impacto negativo de US$ 318 milhões para a Gol",
+        "contexto": "Exemplo de salario em 2014",
+        "fonte": "noticiasaviacao.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20141014093830/http://noticiasaviacao.blogspot.pt/2008/07/varig-provoca-impacto-negativo-de-us.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20141014093830%2Fhttp%3A%2F%2Fnoticiasaviacao.blogspot.pt%2F2008%2F07%2Fvarig-provoca-impacto-negativo-de-us.html"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.2,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Janeiro 2013 - picadasdamicaia",
+        "contexto": "Exemplo de inflacao em 2014",
+        "fonte": "picadasdamicaia.blogs.sapo.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20141110065630/http://picadasdamicaia.blogs.sapo.pt/2013/01/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20141110065630%2Fhttp%3A%2F%2Fpicadasdamicaia.blogs.sapo.pt%2F2013%2F01%2F"
+      }
+    },
+    "ide": 38.5,
+    "ide_componentes": {
+      "habitacao": 15.3,
+      "salario": 47.8,
+      "combustivel": 77.5,
+      "inflacao": 21.9
+    }
+  },
+  "2015": {
+    "habitacao": {
+      "valor_mediana": 1057.61,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Rútilo no planeta Terra: Mudam-se os tempos mas os encargos aumentam",
+        "contexto": "Exemplo de habitacao em 2015",
+        "fonte": "rutilo.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20150421021725/http://rutilo.blogspot.pt/2008/05/mudam-se-os-tempos-mas-os-encargos.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20150421021725%2Fhttp%3A%2F%2Frutilo.blogspot.pt%2F2008%2F05%2Fmudam-se-os-tempos-mas-os-encargos.html"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.78,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Preço dos combustíveis desce esta segunda-feira",
+        "contexto": "Exemplo de combustivel em 2015",
+        "fonte": "elvas.com.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20150415021353/http://elvas.com.pt/index.php?option=com_content&view=article&id=5475:preco-dos-combustiveis-desce-esta-segunda-feira&catid=3:destaques&Itemid=78",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20150415021353%2Fhttp%3A%2F%2Felvas.com.pt%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D5475%3Apreco-dos-combustiveis-desce-esta-segunda-feira%26catid%3D3%3Adestaques%26Itemid%3D78"
+      }
+    },
+    "salario": {
+      "valor_mediana": 549.58,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "WEHAVEKAOSINTHEGARDEN: Assalto na bomba de gasolina",
+        "contexto": "Exemplo de salario em 2015",
+        "fonte": "wehavekaosinthegarden.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20151130033355/http://wehavekaosinthegarden.blogspot.pt/2008/09/assalto-na-bomba-de-gasolina.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20151130033355%2Fhttp%3A%2F%2Fwehavekaosinthegarden.blogspot.pt%2F2008%2F09%2Fassalto-na-bomba-de-gasolina.html"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.74,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "O preço máximo de venda dos combustíveis na Região vai ser atualizado | Rádio Nova Cidade",
+        "contexto": "Exemplo de inflacao em 2015",
+        "fonte": "www.radionovacidade.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20151125133602/http://www.radionovacidade.pt/noticias/o-preco-maximo-de-venda-dos-combustiveis-na-regiao-vai-ser-atualizado/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20151125133602%2Fhttp%3A%2F%2Fwww.radionovacidade.pt%2Fnoticias%2Fo-preco-maximo-de-venda-dos-combustiveis-na-regiao-vai-ser-atualizado%2F"
+      }
+    },
+    "ide": 36.8,
+    "ide_componentes": {
+      "habitacao": 13.6,
+      "salario": 42.0,
+      "combustivel": 87.6,
+      "inflacao": 12.8
+    }
+  },
+  "2016": {
+    "habitacao": {
+      "valor_mediana": 1362.63,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Arrendar Casa - MilCasas",
+        "contexto": "Exemplo de habitacao em 2016",
+        "fonte": "www.escolhamultipla.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20161106082213/http://www.escolhamultipla.pt/venda-casas/?pesq=renda",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20161106082213%2Fhttp%3A%2F%2Fwww.escolhamultipla.pt%2Fvenda-casas%2F%3Fpesq%3Drenda"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.75,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Geo - Conceição : O PETRÓLEO NA ATUALIDADE.",
+        "contexto": "Exemplo de combustivel em 2016",
+        "fonte": "geoconceicao.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20161102201843/http://geoconceicao.blogspot.pt/2016/07/o-petroleo-na-atualidade.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20161102201843%2Fhttp%3A%2F%2Fgeoconceicao.blogspot.pt%2F2016%2F07%2Fo-petroleo-na-atualidade.html"
+      }
+    },
+    "salario": {
+      "valor_mediana": 514.2,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "BLITZ – O dia em que eu... dei 20 euros para ver os Nirvana [crónica de Rui Miguel Abreu]",
+        "contexto": "Exemplo de salario em 2016",
+        "fonte": "blitz.sapo.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20160904065433/http://blitz.sapo.pt/principal/update/o-dia-em-que-eu-dei-20-euros-para-ver-os-nirvana-cronica-de-rui-miguel-abreu=f77132",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20160904065433%2Fhttp%3A%2F%2Fblitz.sapo.pt%2Fprincipal%2Fupdate%2Fo-dia-em-que-eu-dei-20-euros-para-ver-os-nirvana-cronica-de-rui-miguel-abreu%3Df77132"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.11,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "petróleo | Quintus",
+        "contexto": "Exemplo de inflacao em 2016",
+        "fonte": "movv.org",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20160522064646/https://movv.org/tag/petroleo/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20160522064646%2Fhttps%3A%2F%2Fmovv.org%2Ftag%2Fpetroleo%2F"
+      }
+    },
+    "ide": 45.6,
+    "ide_componentes": {
+      "habitacao": 30.5,
+      "salario": 49.4,
+      "combustivel": 85.3,
+      "inflacao": 20.1
+    }
+  },
+  "2017": {
+    "habitacao": {
+      "valor_mediana": 1530.77,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Blogue Engenharia Química: Energia",
+        "contexto": "Exemplo de habitacao em 2017",
+        "fonte": "engenharia-quimica.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20170808214153/https://engenharia-quimica.blogspot.pt/search/label/Energia?updated-max=2014-02-27T18:10:00Z&max-results=20&start=20&by-date=false",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20170808214153%2Fhttps%3A%2F%2Fengenharia-quimica.blogspot.pt%2Fsearch%2Flabel%2FEnergia%3Fupdated-max%3D2014-02-27T18%3A10%3A00Z%26max-results%3D20%26start%3D20%26by-date%3Dfalse"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.69,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Preço dos combustíveis aumenta nos Açores",
+        "contexto": "Exemplo de combustivel em 2017",
+        "fonte": "www.tsf.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20170310065610/http://www.tsf.pt/economia/interior/preco-dos-combustiveis-aumenta-nos-acores-5695973.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20170310065610%2Fhttp%3A%2F%2Fwww.tsf.pt%2Feconomia%2Finterior%2Fpreco-dos-combustiveis-aumenta-nos-acores-5695973.html"
+      }
+    },
+    "salario": {
+      "valor_mediana": 530.51,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Cidade Velha 1462",
+        "contexto": "Exemplo de salario em 2017",
+        "fonte": "cidadevelha1462.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20170223120548/http://cidadevelha1462.blogspot.pt/search?updated-max=2011-11-10T11:46:00Z&max-results=50&reverse-paginate=true&start=94&by-date=false",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20170223120548%2Fhttp%3A%2F%2Fcidadevelha1462.blogspot.pt%2Fsearch%3Fupdated-max%3D2011-11-10T11%3A46%3A00Z%26max-results%3D50%26reverse-paginate%3Dtrue%26start%3D94%26by-date%3Dfalse"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.56,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "| EMPREGAR MAIS",
+        "contexto": "Exemplo de inflacao em 2017",
+        "fonte": "empregarmais.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20170224011401/http://empregarmais.blogspot.pt/search?updated-max=2011-03-01T12:28:00Z&max-results=7&reverse-paginate=true",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20170224011401%2Fhttp%3A%2F%2Fempregarmais.blogspot.pt%2Fsearch%3Fupdated-max%3D2011-03-01T12%3A28%3A00Z%26max-results%3D7%26reverse-paginate%3Dtrue"
+      }
+    },
+    "ide": 48.2,
+    "ide_componentes": {
+      "habitacao": 39.8,
+      "salario": 46.0,
+      "combustivel": 80.6,
+      "inflacao": 29.0
+    }
+  },
+  "2018": {
+    "habitacao": {
+      "valor_mediana": 1572.38,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Revista PORT.COM - Notícias de Portugal e das Comunidades",
+        "contexto": "Exemplo de habitacao em 2018",
+        "fonte": "www.revistaport.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20181228043123/http://www.revistaport.com/noticias/8?search=&etiqueta=&categoria=8&pagina=1&arquivo=",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20181228043123%2Fhttp%3A%2F%2Fwww.revistaport.com%2Fnoticias%2F8%3Fsearch%3D%26etiqueta%3D%26categoria%3D8%26pagina%3D1%26arquivo%3D"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.67,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "A Nova Opressão: Preços do gasóleo e gasolina refinados batem máximos de dois anos nos mercados inte",
+        "contexto": "Exemplo de combustivel em 2018",
+        "fonte": "anovaopressao.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20181028105247/http://anovaopressao.blogspot.com/2011/01/precos-do-gasoleo-e-gasolina-refinados.html",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20181028105247%2Fhttp%3A%2F%2Fanovaopressao.blogspot.com%2F2011%2F01%2Fprecos-do-gasoleo-e-gasolina-refinados.html"
+      }
+    },
+    "salario": {
+      "valor_mediana": 602.62,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "O VOO DO CORVO",
+        "contexto": "Exemplo de salario em 2018",
+        "fonte": "ovoodocorvo.blogspot.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20180418164718/http://ovoodocorvo.blogspot.pt/search?updated-max=2017-09-25T01:16:00-07:00&max-results=7",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20180418164718%2Fhttp%3A%2F%2Fovoodocorvo.blogspot.pt%2Fsearch%3Fupdated-max%3D2017-09-25T01%3A16%3A00-07%3A00%26max-results%3D7"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.63,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Retrievo - A evolução da política cambial em Portugal e a nova política cambial do euro",
+        "contexto": "Exemplo de inflacao em 2018",
+        "fonte": "retrievo.uab.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20181109061553/http://retrievo.uab.pt/record?id=oai:repositorioaberto.uab.pt:10400.2/1523",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20181109061553%2Fhttp%3A%2F%2Fretrievo.uab.pt%2Frecord%3Fid%3Doai%3Arepositorioaberto.uab.pt%3A10400.2%2F1523"
+      }
+    },
+    "ide": 44.4,
+    "ide_componentes": {
+      "habitacao": 42.1,
+      "salario": 31.0,
+      "combustivel": 79.1,
+      "inflacao": 30.4
+    }
+  },
+  "2019": {
+    "habitacao": {
+      "valor_mediana": 1801.26,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Solidariedade",
+        "contexto": "Exemplo de habitacao em 2019",
+        "fonte": "www.solidariedade.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20191208234913/http://www.solidariedade.pt/site/detalhe/13741",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20191208234913%2Fhttp%3A%2F%2Fwww.solidariedade.pt%2Fsite%2Fdetalhe%2F13741"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.69,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Novidades, Remodelações - Obras e Projetos",
+        "contexto": "Exemplo de combustivel em 2019",
+        "fonte": "remodelacoes.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20190831161046/http://remodelacoes.pt/arquivo/julho-2015-07",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190831161046%2Fhttp%3A%2F%2Fremodelacoes.pt%2Farquivo%2Fjulho-2015-07"
+      }
+    },
+    "salario": {
+      "valor_mediana": 657.21,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Fevereiro 2011 | EMPREGAR MAIS",
+        "contexto": "Exemplo de salario em 2019",
+        "fonte": "empregarmais.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20190413082807/http://empregarmais.blogspot.com/2011/02/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190413082807%2Fhttp%3A%2F%2Fempregarmais.blogspot.com%2F2011%2F02%2F"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.71,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Nutricao infantil - ABCrianca",
+        "contexto": "Exemplo de inflacao em 2019",
+        "fonte": "www.pedagogias.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20190417161257/https://www.pedagogias.pt/nutriccedilatildeo",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190417161257%2Fhttps%3A%2F%2Fwww.pedagogias.pt%2Fnutriccedilatildeo"
+      }
+    },
+    "ide": 46.0,
+    "ide_componentes": {
+      "habitacao": 54.7,
+      "salario": 19.7,
+      "combustivel": 80.6,
+      "inflacao": 32.0
+    }
+  },
+  "2020": {
+    "habitacao": {
+      "valor_mediana": 1918.1,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "APRe!: Fevereiro 2013",
+        "contexto": "Exemplo de habitacao em 2020",
+        "fonte": "apre-associacaocivica.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20200619205328/https://apre-associacaocivica.blogspot.com/2013/02/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20200619205328%2Fhttps%3A%2F%2Fapre-associacaocivica.blogspot.com%2F2013%2F02%2F"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.66,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "universidade",
+        "contexto": "Exemplo de combustivel em 2020",
+        "fonte": "guinevereuniversidade.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20200104131752/http://guinevereuniversidade.blogspot.com/search?updated-max=2010-06-23T13:13:00-07:00&max-results=30&reverse-paginate=true",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20200104131752%2Fhttp%3A%2F%2Fguinevereuniversidade.blogspot.com%2Fsearch%3Fupdated-max%3D2010-06-23T13%3A13%3A00-07%3A00%26max-results%3D30%26reverse-paginate%3Dtrue"
+      }
+    },
+    "salario": {
+      "valor_mediana": 649.25,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "UNIR todo o concelho de ALCOBAÇA",
+        "contexto": "Exemplo de salario em 2020",
+        "fonte": "uniralcobaca.blogspot.com",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20200627203935/http://uniralcobaca.blogspot.com/search?updated-max=2013-11-27T09:20:00-08:00&max-results=200",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20200627203935%2Fhttp%3A%2F%2Funiralcobaca.blogspot.com%2Fsearch%3Fupdated-max%3D2013-11-27T09%3A20%3A00-08%3A00%26max-results%3D200"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.09,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "TAP: tripulantes de cabine denunciam ‘barril de pólvora’",
+        "contexto": "Exemplo de inflacao em 2020",
+        "fonte": "mercado.co.ao",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20200108003432/https://mercado.co.ao/mercados/tap-tripulantes-de-cabine-denunciam-barril-de-polvora-YM806616",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20200108003432%2Fhttps%3A%2F%2Fmercado.co.ao%2Fmercados%2Ftap-tripulantes-de-cabine-denunciam-barril-de-polvora-YM806616"
+      }
+    },
+    "ide": 46.4,
+    "ide_componentes": {
+      "habitacao": 61.2,
+      "salario": 21.3,
+      "combustivel": 78.3,
+      "inflacao": 19.7
+    }
+  },
+  "2021": {
+    "habitacao": {
+      "valor_mediana": 2067.06,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Programa XXIIGC",
+        "contexto": "Exemplo de habitacao em 2021",
+        "fonte": "www.portugal.gov.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20210101011531/https://www.portugal.gov.pt/gc22/programa-do-governo-xxii/programa-do-governo-xxii-pdf.aspx?v=%C2%ABmlkvi%C2%BB=54f1146c-05ee-4f3a-be5c-b10f524d8cec",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20210101011531%2Fhttps%3A%2F%2Fwww.portugal.gov.pt%2Fgc22%2Fprograma-do-governo-xxii%2Fprograma-do-governo-xxii-pdf.aspx%3Fv%3D%25C2%25ABmlkvi%25C2%25BB%3D54f1146c-05ee-4f3a-be5c-b10f524d8cec"
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.78,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Tudo sobre: OCDE – Observador",
+        "contexto": "Exemplo de combustivel em 2021",
+        "fonte": "observador.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20210101001645/https://observador.pt/seccao/mundo/ocde-mundo/",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20210101001645%2Fhttps%3A%2F%2Fobservador.pt%2Fseccao%2Fmundo%2Focde-mundo%2F"
+      }
+    },
+    "salario": {
+      "valor_mediana": 621.37,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "XIXGovernoConstitucional/Programa - Tretas.org",
+        "contexto": "Exemplo de salario em 2021",
+        "fonte": "www.tretas.org",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20210101010603/https://www.tretas.org/XIXGovernoConstitucional/Programa",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20210101010603%2Fhttps%3A%2F%2Fwww.tretas.org%2FXIXGovernoConstitucional%2FPrograma"
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.15,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "1º de Maio assinalado em Guimarães - Noticias",
+        "contexto": "Exemplo de inflacao em 2021",
+        "fonte": "www.radiofundacao.net",
+        "sentimento": "estavel",
+        "link_arquivo": "https://arquivo.pt/wayback/20210101034549/http://www.radiofundacao.net/noticias_geral.php?a=13&id=1476",
+        "link_screenshot": "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20210101034549%2Fhttp%3A%2F%2Fwww.radiofundacao.net%2Fnoticias_geral.php%3Fa%3D13%26id%3D1476"
+      }
+    },
+    "ide": 53.1,
+    "ide_componentes": {
+      "habitacao": 69.5,
+      "salario": 27.1,
+      "combustivel": 87.6,
+      "inflacao": 20.9
+    }
+  },
+  "2022": {
+    "habitacao": {
+      "valor_mediana": 2126.83,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2022",
+        "contexto": "Exemplo de habitacao em 2022",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.82,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2022",
+        "contexto": "Exemplo de combustivel em 2022",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "salario": {
+      "valor_mediana": 730.38,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2022",
+        "contexto": "Exemplo de salario em 2022",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 4.55,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2022",
+        "contexto": "Exemplo de inflacao em 2022",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 55.2,
+    "ide_componentes": {
+      "habitacao": 72.8,
+      "salario": 4.4,
+      "combustivel": 90.7,
+      "inflacao": 68.2
+    }
+  },
+  "2023": {
+    "habitacao": {
+      "valor_mediana": 2453.81,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2023",
+        "contexto": "Exemplo de habitacao em 2023",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.71,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2023",
+        "contexto": "Exemplo de combustivel em 2023",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "salario": {
+      "valor_mediana": 748.88,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2023",
+        "contexto": "Exemplo de salario em 2023",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.41,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2023",
+        "contexto": "Exemplo de inflacao em 2023",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 49.4,
+    "ide_componentes": {
+      "habitacao": 90.9,
+      "salario": 0.6,
+      "combustivel": 82.2,
+      "inflacao": 6.3
+    }
+  },
+  "2024": {
+    "habitacao": {
+      "valor_mediana": 2618.86,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2024",
+        "contexto": "Exemplo de habitacao em 2024",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.94,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2024",
+        "contexto": "Exemplo de combustivel em 2024",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "salario": {
+      "valor_mediana": 751.67,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2024",
+        "contexto": "Exemplo de salario em 2024",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 1.34,
+      "n_fontes": 3,
+      "noticia_destaque": {
+        "titulo": "Notícia de 2024",
+        "contexto": "Exemplo de inflacao em 2024",
+        "fonte": "publico.pt",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 55.7,
+    "ide_componentes": {
+      "habitacao": 100.0,
+      "salario": 0.0,
+      "combustivel": 100.0,
+      "inflacao": 4.9
+    }
+  }
+}

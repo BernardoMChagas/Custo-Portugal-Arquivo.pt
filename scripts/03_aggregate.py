@@ -84,7 +84,7 @@ ides = {a: final[a]["ide"] for a in final if "ide" in final[a]}
 pior = max(ides, key=ides.get)
 melhor = min(ides, key=ides.get)
 
-print(f"\n═══ AGREGAÇÃO COMPLETA ═══")
+print(f"\n=== AGREGACAO COMPLETA ===")
 print(f"  Anos com dados: {len(final)}")
 print(f"  Ano mais difícil: {pior} (IDE: {ides[pior]})")
 print(f"  Ano mais fácil: {melhor} (IDE: {ides[melhor]})")

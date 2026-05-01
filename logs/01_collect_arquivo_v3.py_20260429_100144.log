@@ -1,0 +1,203 @@
+======================================================================
+RECOLHA Arquivo.pt — Custo Portugal v3
+  Jornais: 8 | Queries: 55
+  Combinações: 440 | Máx/combo: 100
+  Timeout: 60s | Max retries: 5
+======================================================================
+
+════════════════════════════════════════════════════════════
+  PASSAGEM ESPECIAL — PÚBLICO (meta: 500 snippets)
+  10 queries dedicadas · cap 200/query
+════════════════════════════════════════════════════════════
+  [OK] pub_hab_precos: 1 snippets | publico total: 1
+  [OK] pub_hab_renda: 3 snippets | publico total: 4
+  [OK] pub_sal_poder_compra: 5 snippets | publico total: 9
+  [OK] pub_inf_precos: 2 snippets | publico total: 11
+  [OK] pub_crise_econo: 4 snippets | publico total: 15
+  [OK] pub_covid_econo: 2 snippets | publico total: 17
+  [OK] pub_custo_vida: 1 snippets | publico total: 18
+  [OK] pub_desemprego: 4 snippets | publico total: 22
+  => publico (extra): 22 snippets
+
+────────────────────────────────────────────────────────────
+  JORNAL: publico (www.publico.pt)
+────────────────────────────────────────────────────────────
+  [OK] hab_crise_09_15: 1 snippets | publico total: 1
+  [OK] hab_troika_11_14: 3 snippets | publico total: 4
+  [OK] hab_boom_16_20: 1 snippets | publico total: 5
+  [OK] comb_austeridade_09_15: 1 snippets | publico total: 6
+  [OK] comb_normal_16_21: 2 snippets | publico total: 8
+  [OK] sal_euros_02_10: 1 snippets | publico total: 9
+  [OK] sal_sobe_15_19: 4 snippets | publico total: 13
+  [OK] sal_600_700: 2 snippets | publico total: 15
+  [OK] inf_96_05: 1 snippets | publico total: 16
+  [OK] inf_06_15: 2 snippets | publico total: 18
+  [OK] inf_16_21: 1 snippets | publico total: 19
+  [OK] cv_cabaz: 2 snippets | publico total: 21
+  [OK] desemp_00_08: 1 snippets | publico total: 22
+  [OK] desemp_crise_09_14: 2 snippets | publico total: 24
+  [OK] desemp_recupera_15_24: 2 snippets | publico total: 26
+  [OK] ctx_crise_08_10: 1 snippets | publico total: 27
+  [OK] ctx_troika_11_14: 7 snippets | publico total: 34
+  [OK] ctx_covid_20_21: 5 snippets | publico total: 39
+  => publico: 39 snippets
+
+────────────────────────────────────────────────────────────
+  JORNAL: dn (www.dn.pt)
+────────────────────────────────────────────────────────────
+  [OK] hab_troika_11_14: 2 snippets | dn total: 2
+  [OK] hab_boom_16_20: 1 snippets | dn total: 3
+  [OK] hab_crise_acesso_19_24: 1 snippets | dn total: 4
+  [OK] comb_escudos: 1 snippets | dn total: 5
+  [OK] comb_austeridade_09_15: 2 snippets | dn total: 7
+  [OK] comb_normal_16_21: 3 snippets | dn total: 10
+  [OK] sal_euros_02_10: 1 snippets | dn total: 11
+  [OK] sal_congela_11_14: 2 snippets | dn total: 13
+    [AVISO] Tentativa 1/5: ('Connection aborted.', ConnectionResetError(10054, 'Uma ligação existente foi forçada a fechar pelo anfitrião remoto', None, 10054, None)). Aguarda 4s...
+  [OK] sal_sobe_15_19: 5 snippets | dn total: 18
+  [OK] sal_600_700: 1 snippets | dn total: 19
+    [AVISO] Tentativa 1/5: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Aguarda 4s...
+  [OK] inf_06_15: 2 snippets | dn total: 21
+  [OK] inf_16_21: 1 snippets | dn total: 22
+  [OK] cv_energia: 2 snippets | dn total: 24
+  [OK] desemp_00_08: 3 snippets | dn total: 27
+  [OK] desemp_crise_09_14: 3 snippets | dn total: 30
+  [OK] desemp_recupera_15_24: 2 snippets | dn total: 32
+  [OK] ctx_euro_99_02: 2 snippets | dn total: 34
+  [OK] ctx_troika_11_14: 2 snippets | dn total: 36
+  [OK] ctx_covid_20_21: 4 snippets | dn total: 40
+  => dn: 40 snippets
+
+────────────────────────────────────────────────────────────
+  JORNAL: expresso (www.expresso.pt)
+────────────────────────────────────────────────────────────
+  [OK] hab_escudos_00_02: 2 snippets | expresso total: 2
+  [OK] sal_escudos: 2 snippets | expresso total: 4
+  [OK] inf_96_05: 1 snippets | expresso total: 5
+  [OK] desemp_00_08: 2 snippets | expresso total: 7
+  [OK] ctx_euro_99_02: 2 snippets | expresso total: 9
+  => expresso: 9 snippets
+
+────────────────────────────────────────────────────────────
+  JORNAL: jn (www.jn.pt)
+────────────────────────────────────────────────────────────
+  [OK] hab_troika_11_14: 2 snippets | jn total: 2
+  [OK] hab_boom_16_20: 2 snippets | jn total: 4
+  [OK] hab_crise_acesso_19_24: 1 snippets | jn total: 5
+  [OK] comb_austeridade_09_15: 1 snippets | jn total: 6
+  [OK] comb_normal_16_21: 1 snippets | jn total: 7
+  [OK] sal_congela_11_14: 1 snippets | jn total: 8
+  [OK] sal_sobe_15_19: 2 snippets | jn total: 10
+  [OK] sal_600_700: 1 snippets | jn total: 11
+  [OK] inf_16_21: 1 snippets | jn total: 12
+  [OK] desemp_crise_09_14: 1 snippets | jn total: 13
+  [OK] desemp_recupera_15_24: 1 snippets | jn total: 14
+  [OK] ctx_euro_99_02: 1 snippets | jn total: 15
+  [OK] ctx_troika_11_14: 2 snippets | jn total: 17
+  [OK] ctx_covid_20_21: 1 snippets | jn total: 18
+  => jn: 18 snippets
+
+────────────────────────────────────────────────────────────
+  JORNAL: tsf (www.tsf.pt)
+────────────────────────────────────────────────────────────
+  [OK] hab_troika_11_14: 2 snippets | tsf total: 2
+  [OK] hab_boom_16_20: 2 snippets | tsf total: 4
+  [OK] comb_austeridade_09_15: 2 snippets | tsf total: 6
+  [OK] comb_normal_16_21: 3 snippets | tsf total: 9
+  [OK] sal_escudos: 1 snippets | tsf total: 10
+  [OK] sal_euros_02_10: 2 snippets | tsf total: 12
+  [OK] sal_sobe_15_19: 4 snippets | tsf total: 16
+  [OK] sal_600_700: 2 snippets | tsf total: 18
+  [OK] inf_96_05: 2 snippets | tsf total: 20
+  [OK] inf_06_15: 1 snippets | tsf total: 21
+  [OK] inf_16_21: 1 snippets | tsf total: 22
+  [OK] cv_energia: 1 snippets | tsf total: 23
+  [OK] desemp_00_08: 2 snippets | tsf total: 25
+  [OK] desemp_crise_09_14: 3 snippets | tsf total: 28
+  [OK] desemp_recupera_15_24: 6 snippets | tsf total: 34
+  [OK] ctx_euro_99_02: 1 snippets | tsf total: 35
+  [OK] ctx_troika_11_14: 2 snippets | tsf total: 37
+  [OK] ctx_covid_20_21: 7 snippets | tsf total: 44
+  [OK] rec_sal_21_24: 2 snippets | tsf total: 46
+  => tsf: 46 snippets
+
+────────────────────────────────────────────────────────────
+  JORNAL: cmjornal (www.cmjornal.pt)
+────────────────────────────────────────────────────────────
+  [OK] hab_boom_16_20: 2 snippets | cmjornal total: 2
+  [OK] comb_normal_16_21: 4 snippets | cmjornal total: 6
+    [AVISO] Tentativa 1/5: HTTPSConnectionPool(host='arquivo.pt', port=443): Max retries exceeded with url: /textsearch?q=sal%C3%A1rio+m%C3%ADnimo+nacional+euros+aumento+aprovado+governo+Portugal&from=20020101&to=20101231&maxItems=50&offset=0&siteSearch=www.cmjornal.pt&fields=title%2Csnippet%2Ctstamp%2ClinkToArchive%2ClinkToScreenshot%2CoriginalURL (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001EE88212BA0>: Failed to establish a new connection: [WinError 10053] Uma ligação estabelecida foi anulada pelo software no computador anfitrião')). Aguarda 4s...
+    [AVISO] Tentativa 2/5: HTTPSConnectionPool(host='arquivo.pt', port=443): Max retries exceeded with url: /textsearch?q=sal%C3%A1rio+m%C3%ADnimo+nacional+euros+aumento+aprovado+governo+Portugal&from=20020101&to=20101231&maxItems=50&offset=0&siteSearch=www.cmjornal.pt&fields=title%2Csnippet%2Ctstamp%2ClinkToArchive%2ClinkToScreenshot%2CoriginalURL (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001EE88248890>: Failed to resolve 'arquivo.pt' ([Errno 11001] getaddrinfo failed)")). Aguarda 8s...
+    [AVISO] Tentativa 3/5: HTTPSConnectionPool(host='arquivo.pt', port=443): Max retries exceeded with url: /textsearch?q=sal%C3%A1rio+m%C3%ADnimo+nacional+euros+aumento+aprovado+governo+Portugal&from=20020101&to=20101231&maxItems=50&offset=0&siteSearch=www.cmjornal.pt&fields=title%2Csnippet%2Ctstamp%2ClinkToArchive%2ClinkToScreenshot%2CoriginalURL (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001EE878A8BC0>: Failed to resolve 'arquivo.pt' ([Errno 11001] getaddrinfo failed)")). Aguarda 12s...
+  [OK] sal_sobe_15_19: 4 snippets | cmjornal total: 10
+  [OK] inf_16_21: 2 snippets | cmjornal total: 12
+  [OK] desemp_recupera_15_24: 2 snippets | cmjornal total: 14
+    [AVISO] Tentativa 1/5: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Aguarda 4s...
+    [AVISO] Tentativa 2/5: HTTPSConnectionPool(host='arquivo.pt', port=443): Max retries exceeded with url: /textsearch?q=pandemia+COVID+Portugal+economia+impacto+crise&from=20200101&to=20211231&maxItems=50&offset=0&siteSearch=www.cmjornal.pt&fields=title%2Csnippet%2Ctstamp%2ClinkToArchive%2ClinkToScreenshot%2CoriginalURL (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001EE88213EC0>: Failed to resolve 'arquivo.pt' ([Errno 11001] getaddrinfo failed)")). Aguarda 8s...
+  [OK] ctx_covid_20_21: 2 snippets | cmjornal total: 16
+  => cmjornal: 16 snippets
+
+────────────────────────────────────────────────────────────
+  JORNAL: observador (www.observador.pt)
+────────────────────────────────────────────────────────────
+  => observador: 0 snippets
+
+────────────────────────────────────────────────────────────
+  JORNAL: rtp (www.rtp.pt)
+────────────────────────────────────────────────────────────
+  [OK] comb_austeridade_09_15: 2 snippets | rtp total: 2
+  [OK] comb_normal_16_21: 2 snippets | rtp total: 4
+  [OK] sal_euros_02_10: 2 snippets | rtp total: 6
+  [OK] sal_sobe_15_19: 2 snippets | rtp total: 8
+  [OK] inf_06_15: 1 snippets | rtp total: 9
+  [OK] inf_16_21: 1 snippets | rtp total: 10
+  [OK] desemp_00_08: 2 snippets | rtp total: 12
+  [OK] desemp_crise_09_14: 2 snippets | rtp total: 14
+  [OK] desemp_recupera_15_24: 2 snippets | rtp total: 16
+  [OK] ctx_troika_11_14: 2 snippets | rtp total: 18
+  [OK] ctx_covid_20_21: 6 snippets | rtp total: 24
+  => rtp: 24 snippets
+
+======================================================================
+RECOLHA COMPLETA
+  Total snippets : 214
+  Ficheiros JSON : 370
+  Já existiam    : 0 ficheiros (skip)
+
+Por jornal:
+  publico         61  ██████
+  tsf             46  ████
+  dn              40  ████
+  rtp             24  ██
+  jn              18  █
+  cmjornal        16  █
+  expresso         9  
+  observador       0  
+
+Por ano (top 15):
+  1999  ✗     2  
+  2000  ✗     7  █
+  2001  ✗     8  █
+  2002  ✗     3  
+  2003  ✗     3  
+  2004  ✗     2  
+  2005  ✗     1  
+  2006  ✗     2  
+  2007  ✗     2  
+  2008  ✗     1  
+  2010  ✗     2  
+  2011  ⚠    22  ████
+  2012  ✗     7  █
+  2013  ✗    16  ███
+  2014  ✗     9  █
+  2015  ✗    15  ███
+  2016  ✗    14  ██
+  2017  ✗    18  ███
+  2018  ✗    13  ██
+  2019  ⚠    24  ████
+  2020  ⚠    41  ████████
+  2021  ✗     2  
+
+Verificação meta Menção Honrosa Público:
+  Público: 61 snippets ✗ Faltam 439
+======================================================================

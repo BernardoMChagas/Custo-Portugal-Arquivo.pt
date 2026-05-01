@@ -1,0 +1,23 @@
+[Modelo] Forçado para: gemini-3.1-flash-lite-preview
+[Checkpoint] 1052 processados, 267 extraidos
+
+[Ficheiros] 503 a processar
+[Snippets]  1052 ja processados
+
+
+  [QUOTA/503] Chave 0 indisponível (503). Trocando chave...
+
+  [QUOTA/503] Chave 1 indisponível (503). Trocando chave...
+
+  [QUOTA/503] Chave 2 indisponível (503). Trocando chave...
+
+  [QUOTA/503] Chave 3 indisponível (503). Trocando chave...
+
+  [QUOTA/503] Chave 4 indisponível (503). Trocando chave...
+
+  [QUOTA/503] Chave 5 indisponível (503). Trocando chave...
+
+  [QUOTA/503] Chave 6 indisponível (503). Trocando chave...
+
+[ERRO FATAL] Todas as chaves esgotadas ou indisponíveis!
+  Processados=48 Extraidos=2 Erros=0

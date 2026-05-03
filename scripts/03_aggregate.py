@@ -127,6 +127,10 @@ HISTORICOS = {
     # gas95=1.719€ gas=1.589€ | hab=INE Estatisticas Construcao e Habitacao 2023
     2024: {"habitacao": 1777, "combustivel": 1.648, "salario": 820.0, "inflacao":  2.3},
     # gas95=1.716€ gas=1.581€ | hab=INE Estatisticas Construcao e Habitacao 2024
+    2025: {"habitacao": 2076, "combustivel": 1.685, "salario": 870.0, "inflacao":  2.3},
+    # gas95=1.720€ gas=1.650€ (est.) | hab=INE Estatisticas Construcao e Habitacao 2025
+    2026: {"habitacao": 2198, "combustivel": 1.942, "salario": 920.0, "inflacao":  2.8},
+    # gas95=1.928€ gas=1.956€ (est. DGEG abr/mai) | hab=INE (valor ref. Q4 2025) | inflacao=proj. Banco de Portugal
 }
 
 # ─── Funções de qualidade de dados ────────────────────────────────────────────
@@ -215,7 +219,7 @@ by_year = defaultdict(lambda: defaultdict(list))
 for item in data:
     ano, cat = item.get("ano"), item.get("categoria")
     val = item.get("valor_numerico")
-    if ano and cat and val is not None and 1996 <= ano <= 2024:
+    if ano and cat and val is not None and 1996 <= ano <= 2026:
         by_year[ano][cat].append(item)
 
 # ─── Categorias que entram no IDE ────────────────────────────────────────────
@@ -226,7 +230,7 @@ final = {}
 anos_com_dados_reais = set()
 stats_qualidade = []  # para relatório final
 
-for ano in range(1996, 2025):
+for ano in range(1996, 2027):
     final[ano] = {}
     cats_ano = by_year.get(ano, {})
 

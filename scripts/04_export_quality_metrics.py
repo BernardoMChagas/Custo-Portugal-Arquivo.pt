@@ -24,12 +24,12 @@ by_year = defaultdict(lambda: defaultdict(list))
 for item in data:
     ano = item.get("ano")
     cat = item.get("categoria")
-    if ano and cat and 1996 <= ano <= 2024:
+    if ano and cat and 1996 <= ano <= 2026:
         by_year[ano][cat].append(item)
 
 # ─── Tabela de cobertura por ano ──────────────────────────────────────────────
 cobertura_por_ano = []
-for ano in range(1996, 2025):
+for ano in range(1996, 2027):
     row = by_year.get(ano, {})
     cats_ide = {cat: len(row.get(cat, [])) for cat in IDE_CATS}
     cats_ide_ok = sum(1 for v in cats_ide.values() if v > 0)
@@ -53,8 +53,8 @@ for ano in range(1996, 2025):
 # ─── Cobertura por categoria ──────────────────────────────────────────────────
 cobertura_por_cat = {}
 for cat in sorted(IDE_CATS):
-    anos_com = sorted(a for a in range(1996, 2025) if by_year.get(a, {}).get(cat))
-    anos_sem = sorted(a for a in range(1996, 2025) if not by_year.get(a, {}).get(cat))
+    anos_com = sorted(a for a in range(1996, 2027) if by_year.get(a, {}).get(cat))
+    anos_sem = sorted(a for a in range(1996, 2027) if not by_year.get(a, {}).get(cat))
     totais   = [len(by_year[a][cat]) for a in anos_com]
     cobertura_por_cat[cat] = {
         "anos_com_dados": anos_com,
@@ -129,7 +129,7 @@ metrics = {
         "total_registos_extraidos": n_total_extraidos,
         "taxa_extracao_pct": round(n_total_extraidos / n_total_snippets * 100, 1),
         "anos_cobertos": 29,
-        "periodo": "1996-2024",
+        "periodo": "1996-2026",
         "modelos_llm": [
             "llama-3.1-8b-instant",
             "llama-4-scout-17b",
@@ -175,7 +175,7 @@ metrics = {
         ),
     },
     "fontes_historicas": {
-        "habitacao": "INE (IABH 2009-2017; Estatisticas Precos Habitacao 2018-2024); estimativas BPstat/CI para 1996-2008",
+        "habitacao": "INE (IABH 2009-2017; Estatisticas Precos Habitacao 2018-2026); estimativas BPstat/CI para 1996-2008",
         "combustivel": "DGEG (dgeg-pma-1960-2003.xlsx; dgeg-pma-2004-2025_pt.xlsx) — media Gasolina95+Gasoleo",
         "salario": "PORDATA — RMMG (Retribuicao Minima Mensal Garantida)",
         "inflacao": "INE — Taxa de variacao media anual do IPC",

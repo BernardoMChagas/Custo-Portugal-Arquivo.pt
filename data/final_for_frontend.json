@@ -1,7 +1,7 @@
 {
   "1996": {
-    "inflacao": {
-      "valor_mediana": 3.1,
+    "salario": {
+      "valor_mediana": 272.3,
       "n_fontes": 0,
       "n_fontes_apos_iqr": 0,
       "fonte_historica": true,
@@ -12,7 +12,7 @@
       "score_volume": null,
       "score_relevancia": null,
       "noticia_destaque": {
-        "titulo": "Dados históricos 1996 — inflacao (INE/Pordata)",
+        "titulo": "Dados históricos 1996 — salario (INE/Pordata)",
         "contexto": "Valor de referência histórico 1996",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
@@ -40,6 +40,26 @@
         "link_screenshot": ""
       }
     },
+    "inflacao": {
+      "valor_mediana": 3.1,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 1996 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 1996",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
     "combustivel": {
       "valor_mediana": 0.673,
       "n_fontes": 0,
@@ -53,26 +73,6 @@
       "score_relevancia": null,
       "noticia_destaque": {
         "titulo": "Dados históricos 1996 — combustivel (INE/Pordata)",
-        "contexto": "Valor de referência histórico 1996",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
-    "salario": {
-      "valor_mediana": 272.3,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 1996 — salario (INE/Pordata)",
         "contexto": "Valor de referência histórico 1996",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
@@ -164,6 +164,26 @@
         ]
       }
     },
+    "salario": {
+      "valor_mediana": 282.8,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 1997 — salario (INE/Pordata)",
+        "contexto": "Valor de referência histórico 1997",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
     "habitacao": {
       "valor_mediana": 440,
       "n_fontes": 0,
@@ -204,31 +224,11 @@
         "link_screenshot": ""
       }
     },
-    "salario": {
-      "valor_mediana": 282.8,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 1997 — salario (INE/Pordata)",
-        "contexto": "Valor de referência histórico 1997",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
-    "ide": 36.2,
+    "ide": 36.3,
     "ide_confianca_pct": 65.4,
     "ide_componentes": {
       "habitacao": 2.2,
-      "salario": 98.1,
+      "salario": 98.4,
       "combustivel": 2.4,
       "inflacao": 36.6
     }
@@ -290,26 +290,6 @@
         ]
       }
     },
-    "combustivel": {
-      "valor_mediana": 0.686,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 1998 — combustivel (INE/Pordata)",
-        "contexto": "Valor de referência histórico 1998",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
     "salario": {
       "valor_mediana": 293.8,
       "n_fontes": 0,
@@ -330,11 +310,31 @@
         "link_screenshot": ""
       }
     },
-    "ide": 50.3,
+    "combustivel": {
+      "valor_mediana": 0.686,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 1998 — combustivel (INE/Pordata)",
+        "contexto": "Valor de referência histórico 1998",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 50.5,
     "ide_confianca_pct": 80.7,
     "ide_componentes": {
       "habitacao": 45.8,
-      "salario": 96.1,
+      "salario": 96.7,
       "combustivel": 2.1,
       "inflacao": 33.3
     }
@@ -366,26 +366,6 @@
         ]
       }
     },
-    "inflacao": {
-      "valor_mediana": 2.4,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 1999 — inflacao (INE/Pordata)",
-        "contexto": "Valor de referência histórico 1999",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
     "habitacao": {
       "valor_mediana": 550,
       "n_fontes": 0,
@@ -399,6 +379,26 @@
       "score_relevancia": null,
       "noticia_destaque": {
         "titulo": "Dados históricos 1999 — habitacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 1999",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.4,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 1999 — inflacao (INE/Pordata)",
         "contexto": "Valor de referência histórico 1999",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
@@ -426,11 +426,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 35.5,
+    "ide": 35.8,
     "ide_confianca_pct": 72.4,
     "ide_componentes": {
       "habitacao": 8.1,
-      "salario": 93.0,
+      "salario": 94.1,
       "combustivel": 1.8,
       "inflacao": 29.4
     }
@@ -488,26 +488,6 @@
         ]
       }
     },
-    "inflacao": {
-      "valor_mediana": 2.9,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 2000 — inflacao (INE/Pordata)",
-        "contexto": "Valor de referência histórico 2000",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
     "habitacao": {
       "valor_mediana": 620,
       "n_fontes": 0,
@@ -528,11 +508,31 @@
         "link_screenshot": ""
       }
     },
-    "ide": 37.4,
+    "inflacao": {
+      "valor_mediana": 2.9,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2000 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2000",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 38.0,
     "ide_confianca_pct": 82.2,
     "ide_componentes": {
       "habitacao": 11.9,
-      "salario": 87.5,
+      "salario": 89.4,
       "combustivel": 8.1,
       "inflacao": 35.9
     }
@@ -658,11 +658,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 38.9,
+    "ide": 39.5,
     "ide_confianca_pct": 76.4,
     "ide_componentes": {
       "habitacao": 15.2,
-      "salario": 86.2,
+      "salario": 88.3,
       "combustivel": 0.0,
       "inflacao": 51.6
     }
@@ -764,11 +764,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 57.4,
+    "ide": 58.0,
     "ide_confianca_pct": 76.4,
     "ide_componentes": {
       "habitacao": 66.6,
-      "salario": 86.2,
+      "salario": 88.3,
       "combustivel": 6.3,
       "inflacao": 46.4
     }
@@ -940,11 +940,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 40.5,
+    "ide": 41.2,
     "ide_confianca_pct": 81.3,
     "ide_componentes": {
       "habitacao": 18.4,
-      "salario": 84.7,
+      "salario": 87.1,
       "combustivel": 16.3,
       "inflacao": 35.9
     }
@@ -1082,11 +1082,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 42.0,
+    "ide": 42.8,
     "ide_confianca_pct": 88.1,
     "ide_componentes": {
       "habitacao": 18.9,
-      "salario": 83.0,
+      "salario": 85.6,
       "combustivel": 21.6,
       "inflacao": 41.2
     }
@@ -1294,11 +1294,11 @@
         ]
       }
     },
-    "ide": 72.6,
+    "ide": 73.5,
     "ide_confianca_pct": 64.4,
     "ide_componentes": {
       "habitacao": 100.0,
-      "salario": 81.3,
+      "salario": 84.2,
       "combustivel": 46.0,
       "inflacao": 26.8
     }
@@ -1396,26 +1396,6 @@
         ]
       }
     },
-    "inflacao": {
-      "valor_mediana": 3.0,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 2006 — inflacao (INE/Pordata)",
-        "contexto": "Valor de referência histórico 2006",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
     "habitacao": {
       "valor_mediana": 780,
       "n_fontes": 0,
@@ -1436,11 +1416,31 @@
         "link_screenshot": ""
       }
     },
-    "ide": 41.9,
+    "inflacao": {
+      "valor_mediana": 3.0,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2006 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2006",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 43.0,
     "ide_confianca_pct": 84.6,
     "ide_componentes": {
       "habitacao": 20.6,
-      "salario": 77.2,
+      "salario": 80.7,
       "combustivel": 29.7,
       "inflacao": 37.3
     }
@@ -1612,11 +1612,11 @@
         ]
       }
     },
-    "ide": 51.0,
+    "ide": 52.3,
     "ide_confianca_pct": 81.4,
     "ide_componentes": {
       "habitacao": 44.2,
-      "salario": 72.5,
+      "salario": 76.7,
       "combustivel": 46.0,
       "inflacao": 30.7
     }
@@ -1732,11 +1732,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 39.3,
+    "ide": 40.6,
     "ide_confianca_pct": 79.9,
     "ide_componentes": {
       "habitacao": 23.8,
-      "salario": 71.8,
+      "salario": 76.2,
       "combustivel": 46.0,
       "inflacao": 1.5
     }
@@ -1926,11 +1926,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 32.2,
+    "ide": 33.9,
     "ide_confianca_pct": 74.0,
     "ide_componentes": {
       "habitacao": 22.7,
-      "salario": 63.9,
+      "salario": 69.5,
       "combustivel": 25.4,
       "inflacao": 0.0
     }
@@ -2096,11 +2096,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 52.6,
+    "ide": 54.3,
     "ide_confianca_pct": 72.3,
     "ide_componentes": {
       "habitacao": 67.6,
-      "salario": 63.0,
+      "salario": 68.7,
       "combustivel": 33.2,
       "inflacao": 22.9
     }
@@ -2280,11 +2280,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 48.8,
+    "ide": 50.7,
     "ide_confianca_pct": 82.2,
     "ide_componentes": {
       "habitacao": 40.0,
-      "salario": 58.4,
+      "salario": 64.8,
       "combustivel": 51.4,
       "inflacao": 46.4
     }
@@ -2370,26 +2370,6 @@
         ]
       }
     },
-    "combustivel": {
-      "valor_mediana": 1.546,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 2012 — combustivel (INE/Pordata)",
-        "contexto": "Valor de referência histórico 2012",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
     "salario": {
       "valor_mediana": 485.0,
       "n_fontes": 0,
@@ -2410,11 +2390,31 @@
         "link_screenshot": ""
       }
     },
-    "ide": 42.5,
+    "combustivel": {
+      "valor_mediana": 1.546,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2012 — combustivel (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2012",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 44.3,
     "ide_confianca_pct": 62.6,
     "ide_componentes": {
       "habitacao": 33.2,
-      "salario": 61.2,
+      "salario": 67.2,
       "combustivel": 48.5,
       "inflacao": 19.0
     }
@@ -2494,8 +2494,8 @@
         ]
       }
     },
-    "inflacao": {
-      "valor_mediana": 0.3,
+    "salario": {
+      "valor_mediana": 485.0,
       "n_fontes": 0,
       "n_fontes_apos_iqr": 0,
       "fonte_historica": true,
@@ -2506,7 +2506,7 @@
       "score_volume": null,
       "score_relevancia": null,
       "noticia_destaque": {
-        "titulo": "Dados históricos 2013 — inflacao (INE/Pordata)",
+        "titulo": "Dados históricos 2013 — salario (INE/Pordata)",
         "contexto": "Valor de referência histórico 2013",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
@@ -2534,8 +2534,8 @@
         "link_screenshot": ""
       }
     },
-    "salario": {
-      "valor_mediana": 485.0,
+    "inflacao": {
+      "valor_mediana": 0.3,
       "n_fontes": 0,
       "n_fontes_apos_iqr": 0,
       "fonte_historica": true,
@@ -2546,7 +2546,7 @@
       "score_volume": null,
       "score_relevancia": null,
       "noticia_destaque": {
-        "titulo": "Dados históricos 2013 — salario (INE/Pordata)",
+        "titulo": "Dados históricos 2013 — inflacao (INE/Pordata)",
         "contexto": "Valor de referência histórico 2013",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
@@ -2554,11 +2554,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 34.2,
+    "ide": 36.0,
     "ide_confianca_pct": 72.3,
     "ide_componentes": {
       "habitacao": 22.2,
-      "salario": 61.2,
+      "salario": 67.2,
       "combustivel": 38.7,
       "inflacao": 2.0
     }
@@ -2614,6 +2614,26 @@
         ]
       }
     },
+    "salario": {
+      "valor_mediana": 485.0,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2014 — salario (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2014",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
     "habitacao": {
       "valor_mediana": 800,
       "n_fontes": 0,
@@ -2654,31 +2674,11 @@
         "link_screenshot": ""
       }
     },
-    "salario": {
-      "valor_mediana": 485.0,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 2014 — salario (INE/Pordata)",
-        "contexto": "Valor de referência histórico 2014",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
-    "ide": 34.2,
+    "ide": 36.0,
     "ide_confianca_pct": 43.3,
     "ide_componentes": {
       "habitacao": 21.6,
-      "salario": 61.2,
+      "salario": 67.2,
       "combustivel": 41.4,
       "inflacao": 0.0
     }
@@ -2830,11 +2830,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 32.3,
+    "ide": 34.2,
     "ide_confianca_pct": 64.7,
     "ide_componentes": {
       "habitacao": 23.3,
-      "salario": 57.5,
+      "salario": 64.1,
       "combustivel": 30.8,
       "inflacao": 4.6
     }
@@ -2952,11 +2952,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 33.7,
+    "ide": 36.0,
     "ide_confianca_pct": 75.4,
     "ide_componentes": {
       "habitacao": 25.4,
-      "salario": 51.1,
+      "salario": 58.7,
       "combustivel": 32.1,
       "inflacao": 20.3
     }
@@ -3046,26 +3046,6 @@
         ]
       }
     },
-    "inflacao": {
-      "valor_mediana": 1.6,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 2017 — inflacao (INE/Pordata)",
-        "contexto": "Valor de referência histórico 2017",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
     "habitacao": {
       "valor_mediana": 960,
       "n_fontes": 0,
@@ -3086,11 +3066,31 @@
         "link_screenshot": ""
       }
     },
-    "ide": 35.8,
+    "inflacao": {
+      "valor_mediana": 1.6,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2017 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2017",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 38.4,
     "ide_confianca_pct": 85.2,
     "ide_componentes": {
       "habitacao": 30.3,
-      "salario": 43.8,
+      "salario": 52.5,
       "combustivel": 46.0,
       "inflacao": 19.0
     }
@@ -3242,44 +3242,16 @@
         "link_screenshot": ""
       }
     },
-    "ide": 32.4,
+    "ide": 35.4,
     "ide_confianca_pct": 80.9,
     "ide_componentes": {
       "habitacao": 28.7,
-      "salario": 33.8,
+      "salario": 44.0,
       "combustivel": 42.8,
       "inflacao": 24.2
     }
   },
   "2019": {
-    "habitacao": {
-      "valor_mediana": 1523.0,
-      "n_fontes": 3,
-      "n_fontes_apos_iqr": 3,
-      "fonte_historica": false,
-      "confianca_pct": 47.9,
-      "desvio_padrao": 884.1591,
-      "coef_variacao": 0.5805,
-      "score_consistencia": 0.0,
-      "score_volume": 77.4,
-      "score_relevancia": 83.3,
-      "noticia_destaque": {
-        "titulo": "Avaliação bancária da habitação atinge recorde em Portugal",
-        "contexto": "Avaliação bancária média das habitações a nível nacional, segundo dados do INE.",
-        "fonte": "Diario de Noticias",
-        "sentimento": "subida",
-        "link_arquivo": [
-          "https://arquivo.pt/wayback/20190101055638/https://www.dn.pt/dinheiro/interior/amp/esta-quinta-feira-foi-o-pior-dia-para-a-empresa-de-mark-zuckerberg-9642760.html",
-          "https://arquivo.pt/wayback/20190609034930/https://www.tsf.pt/economia/interior/preco-das-casas-sobe-32-na-avenida-da-liberdade-10516177.html",
-          "https://arquivo.pt/wayback/20190718040452/https://www.cmjornal.pt/economia/detalhe/venda-de-casas-sobe-166-em-2018-e-atinge-recorde-em-dez-anos"
-        ],
-        "link_screenshot": [
-          "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190101055638%2Fhttps%3A%2F%2Fwww.dn.pt%2Fdinheiro%2Finterior%2Famp%2Festa-quinta-feira-foi-o-pior-dia-para-a-empresa-de-mark-zuckerberg-9642760.html",
-          "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190609034930%2Fhttps%3A%2F%2Fwww.tsf.pt%2Feconomia%2Finterior%2Fpreco-das-casas-sobe-32-na-avenida-da-liberdade-10516177.html",
-          "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190718040452%2Fhttps%3A%2F%2Fwww.cmjornal.pt%2Feconomia%2Fdetalhe%2Fvenda-de-casas-sobe-166-em-2018-e-atinge-recorde-em-dez-anos"
-        ]
-      }
-    },
     "contexto": {
       "valor_mediana": 0.5,
       "n_fontes": 1,
@@ -3329,6 +3301,32 @@
           "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190903182400%2Fhttps%3A%2F%2Fwww.jn.pt%2Feconomia%2Finterior%2Famp%2Fmanuais-e-passes-arrastam-inflacao-para-valores-negativos-11259118.html",
           "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20191218201349%2Fhttps%3A%2F%2Fwww.tsf.pt%2Fportugal%2Feconomia%2Fatualizacao-dos-escaloes-de-irs-retira-poder-de-compra-aos-cidadaos-11623838.html",
           "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190503174314%2Fhttps%3A%2F%2Fwww.lusa.pt%2Farticle%2F26160828%2Finfla%25C3%25A7%25C3%25A3o-sobe-para-1-7-em-abril-na-zona-euro-eurostat"
+        ]
+      }
+    },
+    "habitacao": {
+      "valor_mediana": 2200.0,
+      "n_fontes": 2,
+      "n_fontes_apos_iqr": 2,
+      "fonte_historica": false,
+      "confianca_pct": 45.4,
+      "desvio_padrao": 957.4226,
+      "coef_variacao": 0.4352,
+      "score_consistencia": 13.0,
+      "score_volume": 61.3,
+      "score_relevancia": 75.0,
+      "noticia_destaque": {
+        "titulo": "Preço mediano da habitação em Lisboa atinge 2877 euros por metro quadrado",
+        "contexto": "Preço mediano por metro quadrado na cidade de Lisboa reportado em contexto de mercado imobiliário nacional.",
+        "fonte": "TSF",
+        "sentimento": "subida",
+        "link_arquivo": [
+          "https://arquivo.pt/wayback/20190609034930/https://www.tsf.pt/economia/interior/preco-das-casas-sobe-32-na-avenida-da-liberdade-10516177.html",
+          "https://arquivo.pt/wayback/20190718040452/https://www.cmjornal.pt/economia/detalhe/venda-de-casas-sobe-166-em-2018-e-atinge-recorde-em-dez-anos"
+        ],
+        "link_screenshot": [
+          "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190609034930%2Fhttps%3A%2F%2Fwww.tsf.pt%2Feconomia%2Finterior%2Fpreco-das-casas-sobe-32-na-avenida-da-liberdade-10516177.html",
+          "https://arquivo.pt/screenshot?url=https%3A%2F%2Farquivo.pt%2FnoFrame%2Freplay%2F20190718040452%2Fhttps%3A%2F%2Fwww.cmjornal.pt%2Feconomia%2Fdetalhe%2Fvenda-de-casas-sobe-166-em-2018-e-atinge-recorde-em-dez-anos"
         ]
       }
     },
@@ -3416,11 +3414,11 @@
         ]
       }
     },
-    "ide": 46.0,
-    "ide_confianca_pct": 61.4,
+    "ide": 62.8,
+    "ide_confianca_pct": 60.8,
     "ide_componentes": {
-      "habitacao": 60.8,
-      "salario": 12.8,
+      "habitacao": 97.4,
+      "salario": 26.2,
       "combustivel": 100.0,
       "inflacao": 5.9
     }
@@ -3616,11 +3614,11 @@
         "link_screenshot": ""
       }
     },
-    "ide": 28.7,
+    "ide": 31.8,
     "ide_confianca_pct": 77.8,
     "ide_componentes": {
       "habitacao": 37.6,
-      "salario": 33.8,
+      "salario": 44.0,
       "combustivel": 26.5,
       "inflacao": 0.7
     }
@@ -3776,18 +3774,18 @@
         "link_screenshot": ""
       }
     },
-    "ide": 36.8,
+    "ide": 40.1,
     "ide_confianca_pct": 71.7,
     "ide_componentes": {
       "habitacao": 48.7,
-      "salario": 28.3,
+      "salario": 39.4,
       "combustivel": 46.0,
       "inflacao": 13.7
     }
   },
   "2022": {
-    "inflacao": {
-      "valor_mediana": 7.8,
+    "salario": {
+      "valor_mediana": 705.0,
       "n_fontes": 0,
       "n_fontes_apos_iqr": 0,
       "fonte_historica": true,
@@ -3798,7 +3796,7 @@
       "score_volume": null,
       "score_relevancia": null,
       "noticia_destaque": {
-        "titulo": "Dados históricos 2022 — inflacao (INE/Pordata)",
+        "titulo": "Dados históricos 2022 — salario (INE/Pordata)",
         "contexto": "Valor de referência histórico 2022",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
@@ -3826,6 +3824,26 @@
         "link_screenshot": ""
       }
     },
+    "inflacao": {
+      "valor_mediana": 7.8,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2022 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2022",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
     "combustivel": {
       "valor_mediana": 1.823,
       "n_fontes": 0,
@@ -3846,38 +3864,18 @@
         "link_screenshot": ""
       }
     },
-    "salario": {
-      "valor_mediana": 705.0,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 2022 — salario (INE/Pordata)",
-        "contexto": "Valor de referência histórico 2022",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
-    "ide": 54.5,
+    "ide": 58.2,
     "ide_confianca_pct": null,
     "ide_componentes": {
       "habitacao": 58.7,
-      "salario": 21.0,
+      "salario": 33.2,
       "combustivel": 63.4,
       "inflacao": 100.0
     }
   },
   "2023": {
-    "inflacao": {
-      "valor_mediana": 5.4,
+    "salario": {
+      "valor_mediana": 760.0,
       "n_fontes": 0,
       "n_fontes_apos_iqr": 0,
       "fonte_historica": true,
@@ -3888,7 +3886,7 @@
       "score_volume": null,
       "score_relevancia": null,
       "noticia_destaque": {
-        "titulo": "Dados históricos 2023 — inflacao (INE/Pordata)",
+        "titulo": "Dados históricos 2023 — salario (INE/Pordata)",
         "contexto": "Valor de referência histórico 2023",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
@@ -3916,6 +3914,26 @@
         "link_screenshot": ""
       }
     },
+    "inflacao": {
+      "valor_mediana": 5.4,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2023 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2023",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
     "combustivel": {
       "valor_mediana": 1.654,
       "n_fontes": 0,
@@ -3936,38 +3954,18 @@
         "link_screenshot": ""
       }
     },
-    "salario": {
-      "valor_mediana": 760.0,
-      "n_fontes": 0,
-      "n_fontes_apos_iqr": 0,
-      "fonte_historica": true,
-      "confianca_pct": null,
-      "desvio_padrao": null,
-      "coef_variacao": null,
-      "score_consistencia": null,
-      "score_volume": null,
-      "score_relevancia": null,
-      "noticia_destaque": {
-        "titulo": "Dados históricos 2023 — salario (INE/Pordata)",
-        "contexto": "Valor de referência histórico 2023",
-        "fonte": "INE/Pordata",
-        "sentimento": "estavel",
-        "link_arquivo": "",
-        "link_screenshot": ""
-      }
-    },
-    "ide": 47.4,
+    "ide": 51.5,
     "ide_confianca_pct": null,
     "ide_componentes": {
       "habitacao": 65.5,
-      "salario": 11.0,
+      "salario": 24.7,
       "combustivel": 54.3,
       "inflacao": 68.6
     }
   },
   "2024": {
-    "inflacao": {
-      "valor_mediana": 2.3,
+    "salario": {
+      "valor_mediana": 820.0,
       "n_fontes": 0,
       "n_fontes_apos_iqr": 0,
       "fonte_historica": true,
@@ -3978,7 +3976,7 @@
       "score_volume": null,
       "score_relevancia": null,
       "noticia_destaque": {
-        "titulo": "Dados históricos 2024 — inflacao (INE/Pordata)",
+        "titulo": "Dados históricos 2024 — salario (INE/Pordata)",
         "contexto": "Valor de referência histórico 2024",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
@@ -4006,6 +4004,26 @@
         "link_screenshot": ""
       }
     },
+    "inflacao": {
+      "valor_mediana": 2.3,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2024 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2024",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
     "combustivel": {
       "valor_mediana": 1.648,
       "n_fontes": 0,
@@ -4026,8 +4044,18 @@
         "link_screenshot": ""
       }
     },
+    "ide": 45.7,
+    "ide_confianca_pct": null,
+    "ide_componentes": {
+      "habitacao": 74.5,
+      "salario": 15.4,
+      "combustivel": 54.0,
+      "inflacao": 28.1
+    }
+  },
+  "2025": {
     "salario": {
-      "valor_mediana": 820.0,
+      "valor_mediana": 870.0,
       "n_fontes": 0,
       "n_fontes_apos_iqr": 0,
       "fonte_historica": true,
@@ -4038,21 +4066,171 @@
       "score_volume": null,
       "score_relevancia": null,
       "noticia_destaque": {
-        "titulo": "Dados históricos 2024 — salario (INE/Pordata)",
-        "contexto": "Valor de referência histórico 2024",
+        "titulo": "Dados históricos 2025 — salario (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2025",
         "fonte": "INE/Pordata",
         "sentimento": "estavel",
         "link_arquivo": "",
         "link_screenshot": ""
       }
     },
-    "ide": 41.1,
+    "habitacao": {
+      "valor_mediana": 2076,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2025 — habitacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2025",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.3,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2025 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2025",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.685,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2025 — combustivel (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2025",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 49.5,
     "ide_confianca_pct": null,
     "ide_componentes": {
-      "habitacao": 74.5,
-      "salario": 0.0,
-      "combustivel": 54.0,
+      "habitacao": 90.7,
+      "salario": 7.7,
+      "combustivel": 56.0,
       "inflacao": 28.1
+    }
+  },
+  "2026": {
+    "salario": {
+      "valor_mediana": 920.0,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2026 — salario (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2026",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "habitacao": {
+      "valor_mediana": 2198,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2026 — habitacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2026",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "inflacao": {
+      "valor_mediana": 2.8,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2026 — inflacao (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2026",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "combustivel": {
+      "valor_mediana": 1.942,
+      "n_fontes": 0,
+      "n_fontes_apos_iqr": 0,
+      "fonte_historica": true,
+      "confianca_pct": null,
+      "desvio_padrao": null,
+      "coef_variacao": null,
+      "score_consistencia": null,
+      "score_volume": null,
+      "score_relevancia": null,
+      "noticia_destaque": {
+        "titulo": "Dados históricos 2026 — combustivel (INE/Pordata)",
+        "contexto": "Valor de referência histórico 2026",
+        "fonte": "INE/Pordata",
+        "sentimento": "estavel",
+        "link_arquivo": "",
+        "link_screenshot": ""
+      }
+    },
+    "ide": 53.2,
+    "ide_confianca_pct": null,
+    "ide_componentes": {
+      "habitacao": 97.3,
+      "salario": 0.0,
+      "combustivel": 69.9,
+      "inflacao": 34.6
     }
   }
 }

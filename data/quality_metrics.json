@@ -1,0 +1,949 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-01",
+    "versao": "4.0",
+    "descricao": "Metricas de qualidade do dataset Custo Portugal para uso no website"
+  },
+  "pipeline": {
+    "total_snippets_recolhidos": 4338,
+    "total_snippets_processados": 4250,
+    "total_registos_extraidos": 1425,
+    "taxa_extracao_pct": 33.5,
+    "anos_cobertos": 29,
+    "periodo": "1996-2026",
+    "modelos_llm": [
+      "llama-3.1-8b-instant",
+      "llama-4-scout-17b",
+      "qwen/qwen3-32b",
+      "openai/gpt-oss-20b",
+      "openai/gpt-oss-120b"
+    ],
+    "api": "Groq (migrado do Gemini — instabilidade 503)"
+  },
+  "cobertura_por_ano": [
+    {
+      "ano": 1996,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 0,
+      "inflacao": 0,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 0,
+      "cats_ide_com_dados": 0,
+      "ide_completo": false,
+      "ide": 36.1,
+      "ide_confianca_pct": null
+    },
+    {
+      "ano": 1997,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 0,
+      "inflacao": 3,
+      "desemprego": 1,
+      "custo_vida": 1,
+      "contexto": 0,
+      "total": 5,
+      "cats_ide_com_dados": 1,
+      "ide_completo": false,
+      "ide": 36.3,
+      "ide_confianca_pct": 65.4
+    },
+    {
+      "ano": 1998,
+      "habitacao": 1,
+      "combustivel": 0,
+      "salario": 0,
+      "inflacao": 9,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 10,
+      "cats_ide_com_dados": 2,
+      "ide_completo": false,
+      "ide": 50.5,
+      "ide_confianca_pct": 80.7
+    },
+    {
+      "ano": 1999,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 2,
+      "inflacao": 0,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 2,
+      "cats_ide_com_dados": 1,
+      "ide_completo": false,
+      "ide": 35.8,
+      "ide_confianca_pct": 72.4
+    },
+    {
+      "ano": 2000,
+      "habitacao": 0,
+      "combustivel": 2,
+      "salario": 2,
+      "inflacao": 0,
+      "desemprego": 1,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 5,
+      "cats_ide_com_dados": 2,
+      "ide_completo": false,
+      "ide": 38.0,
+      "ide_confianca_pct": 82.2
+    },
+    {
+      "ano": 2001,
+      "habitacao": 0,
+      "combustivel": 1,
+      "salario": 1,
+      "inflacao": 2,
+      "desemprego": 4,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 8,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 39.5,
+      "ide_confianca_pct": 76.4
+    },
+    {
+      "ano": 2002,
+      "habitacao": 1,
+      "combustivel": 0,
+      "salario": 5,
+      "inflacao": 1,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 7,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 58.0,
+      "ide_confianca_pct": 76.4
+    },
+    {
+      "ano": 2003,
+      "habitacao": 0,
+      "combustivel": 2,
+      "salario": 66,
+      "inflacao": 62,
+      "desemprego": 4,
+      "custo_vida": 2,
+      "contexto": 0,
+      "total": 136,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 41.2,
+      "ide_confianca_pct": 81.3
+    },
+    {
+      "ano": 2004,
+      "habitacao": 0,
+      "combustivel": 18,
+      "salario": 66,
+      "inflacao": 1,
+      "desemprego": 0,
+      "custo_vida": 1,
+      "contexto": 1,
+      "total": 87,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 42.8,
+      "ide_confianca_pct": 88.1
+    },
+    {
+      "ano": 2005,
+      "habitacao": 5,
+      "combustivel": 5,
+      "salario": 117,
+      "inflacao": 111,
+      "desemprego": 3,
+      "custo_vida": 2,
+      "contexto": 0,
+      "total": 244,
+      "cats_ide_com_dados": 4,
+      "ide_completo": true,
+      "ide": 73.5,
+      "ide_confianca_pct": 64.4
+    },
+    {
+      "ano": 2006,
+      "habitacao": 1,
+      "combustivel": 56,
+      "salario": 85,
+      "inflacao": 2,
+      "desemprego": 0,
+      "custo_vida": 4,
+      "contexto": 0,
+      "total": 148,
+      "cats_ide_com_dados": 4,
+      "ide_completo": true,
+      "ide": 43.0,
+      "ide_confianca_pct": 84.6
+    },
+    {
+      "ano": 2007,
+      "habitacao": 6,
+      "combustivel": 54,
+      "salario": 83,
+      "inflacao": 5,
+      "desemprego": 4,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 153,
+      "cats_ide_com_dados": 4,
+      "ide_completo": true,
+      "ide": 52.3,
+      "ide_confianca_pct": 81.4
+    },
+    {
+      "ano": 2008,
+      "habitacao": 7,
+      "combustivel": 11,
+      "salario": 116,
+      "inflacao": 21,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 155,
+      "cats_ide_com_dados": 4,
+      "ide_completo": true,
+      "ide": 40.6,
+      "ide_confianca_pct": 79.9
+    },
+    {
+      "ano": 2009,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 59,
+      "inflacao": 56,
+      "desemprego": 61,
+      "custo_vida": 1,
+      "contexto": 4,
+      "total": 181,
+      "cats_ide_com_dados": 2,
+      "ide_completo": false,
+      "ide": 33.9,
+      "ide_confianca_pct": 74.0
+    },
+    {
+      "ano": 2010,
+      "habitacao": 6,
+      "combustivel": 0,
+      "salario": 50,
+      "inflacao": 5,
+      "desemprego": 62,
+      "custo_vida": 1,
+      "contexto": 0,
+      "total": 124,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 54.3,
+      "ide_confianca_pct": 72.3
+    },
+    {
+      "ano": 2011,
+      "habitacao": 4,
+      "combustivel": 1,
+      "salario": 3,
+      "inflacao": 1,
+      "desemprego": 2,
+      "custo_vida": 1,
+      "contexto": 1,
+      "total": 13,
+      "cats_ide_com_dados": 4,
+      "ide_completo": true,
+      "ide": 50.7,
+      "ide_confianca_pct": 82.2
+    },
+    {
+      "ano": 2012,
+      "habitacao": 2,
+      "combustivel": 1,
+      "salario": 3,
+      "inflacao": 2,
+      "desemprego": 7,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 15,
+      "cats_ide_com_dados": 4,
+      "ide_completo": true,
+      "ide": 44.3,
+      "ide_confianca_pct": 62.6
+    },
+    {
+      "ano": 2013,
+      "habitacao": 0,
+      "combustivel": 1,
+      "salario": 1,
+      "inflacao": 0,
+      "desemprego": 4,
+      "custo_vida": 0,
+      "contexto": 2,
+      "total": 8,
+      "cats_ide_com_dados": 2,
+      "ide_completo": false,
+      "ide": 36.0,
+      "ide_confianca_pct": 72.3
+    },
+    {
+      "ano": 2014,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 1,
+      "inflacao": 3,
+      "desemprego": 1,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 5,
+      "cats_ide_com_dados": 2,
+      "ide_completo": false,
+      "ide": 36.0,
+      "ide_confianca_pct": 43.3
+    },
+    {
+      "ano": 2015,
+      "habitacao": 0,
+      "combustivel": 1,
+      "salario": 7,
+      "inflacao": 4,
+      "desemprego": 3,
+      "custo_vida": 1,
+      "contexto": 1,
+      "total": 17,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 34.2,
+      "ide_confianca_pct": 64.7
+    },
+    {
+      "ano": 2016,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 2,
+      "inflacao": 1,
+      "desemprego": 1,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 4,
+      "cats_ide_com_dados": 2,
+      "ide_completo": false,
+      "ide": 36.0,
+      "ide_confianca_pct": 75.4
+    },
+    {
+      "ano": 2017,
+      "habitacao": 0,
+      "combustivel": 3,
+      "salario": 5,
+      "inflacao": 0,
+      "desemprego": 8,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 16,
+      "cats_ide_com_dados": 2,
+      "ide_completo": false,
+      "ide": 38.4,
+      "ide_confianca_pct": 85.2
+    },
+    {
+      "ano": 2018,
+      "habitacao": 0,
+      "combustivel": 1,
+      "salario": 5,
+      "inflacao": 3,
+      "desemprego": 5,
+      "custo_vida": 1,
+      "contexto": 0,
+      "total": 15,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 35.4,
+      "ide_confianca_pct": 80.9
+    },
+    {
+      "ano": 2019,
+      "habitacao": 5,
+      "combustivel": 1,
+      "salario": 10,
+      "inflacao": 4,
+      "desemprego": 4,
+      "custo_vida": 0,
+      "contexto": 1,
+      "total": 25,
+      "cats_ide_com_dados": 4,
+      "ide_completo": true,
+      "ide": 50.0,
+      "ide_confianca_pct": 61.4
+    },
+    {
+      "ano": 2020,
+      "habitacao": 0,
+      "combustivel": 6,
+      "salario": 7,
+      "inflacao": 2,
+      "desemprego": 4,
+      "custo_vida": 1,
+      "contexto": 4,
+      "total": 25,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 31.8,
+      "ide_confianca_pct": 77.8
+    },
+    {
+      "ano": 2021,
+      "habitacao": 0,
+      "combustivel": 1,
+      "salario": 12,
+      "inflacao": 2,
+      "desemprego": 0,
+      "custo_vida": 1,
+      "contexto": 1,
+      "total": 17,
+      "cats_ide_com_dados": 3,
+      "ide_completo": false,
+      "ide": 40.1,
+      "ide_confianca_pct": 71.7
+    },
+    {
+      "ano": 2022,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 0,
+      "inflacao": 0,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 0,
+      "cats_ide_com_dados": 0,
+      "ide_completo": false,
+      "ide": 58.2,
+      "ide_confianca_pct": null
+    },
+    {
+      "ano": 2023,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 0,
+      "inflacao": 0,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 0,
+      "cats_ide_com_dados": 0,
+      "ide_completo": false,
+      "ide": 51.5,
+      "ide_confianca_pct": null
+    },
+    {
+      "ano": 2024,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 0,
+      "inflacao": 0,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 0,
+      "cats_ide_com_dados": 0,
+      "ide_completo": false,
+      "ide": 45.7,
+      "ide_confianca_pct": null
+    },
+    {
+      "ano": 2025,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 0,
+      "inflacao": 0,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 0,
+      "cats_ide_com_dados": 0,
+      "ide_completo": false,
+      "ide": 49.5,
+      "ide_confianca_pct": null
+    },
+    {
+      "ano": 2026,
+      "habitacao": 0,
+      "combustivel": 0,
+      "salario": 0,
+      "inflacao": 0,
+      "desemprego": 0,
+      "custo_vida": 0,
+      "contexto": 0,
+      "total": 0,
+      "cats_ide_com_dados": 0,
+      "ide_completo": false,
+      "ide": 53.2,
+      "ide_confianca_pct": null
+    }
+  ],
+  "cobertura_por_categoria": {
+    "combustivel": {
+      "anos_com_dados": [
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2011,
+        2012,
+        2013,
+        2015,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "anos_sem_dados": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2002,
+        2009,
+        2010,
+        2014,
+        2016,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "n_anos_com_dados": 17,
+      "n_anos_sem_dados": 14,
+      "total_registos": 165,
+      "media_fontes_por_ano": 9.7,
+      "min_fontes": 1,
+      "max_fontes": 56
+    },
+    "habitacao": {
+      "anos_com_dados": [
+        1998,
+        2002,
+        2005,
+        2006,
+        2007,
+        2008,
+        2010,
+        2011,
+        2012,
+        2019
+      ],
+      "anos_sem_dados": [
+        1996,
+        1997,
+        1999,
+        2000,
+        2001,
+        2003,
+        2004,
+        2009,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "n_anos_com_dados": 10,
+      "n_anos_sem_dados": 21,
+      "total_registos": 38,
+      "media_fontes_por_ano": 3.8,
+      "min_fontes": 1,
+      "max_fontes": 7
+    },
+    "inflacao": {
+      "anos_com_dados": [
+        1997,
+        1998,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2014,
+        2015,
+        2016,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "anos_sem_dados": [
+        1996,
+        1999,
+        2000,
+        2013,
+        2017,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "n_anos_com_dados": 21,
+      "n_anos_sem_dados": 10,
+      "total_registos": 300,
+      "media_fontes_por_ano": 14.3,
+      "min_fontes": 1,
+      "max_fontes": 111
+    },
+    "salario": {
+      "anos_com_dados": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "anos_sem_dados": [
+        1996,
+        1997,
+        1998,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "n_anos_com_dados": 23,
+      "n_anos_sem_dados": 8,
+      "total_registos": 708,
+      "media_fontes_por_ano": 30.8,
+      "min_fontes": 1,
+      "max_fontes": 117
+    }
+  },
+  "distribuicao_fontes": [
+    {
+      "fonte": "RTP",
+      "n": 68
+    },
+    {
+      "fonte": "Publico",
+      "n": 55
+    },
+    {
+      "fonte": "TSF",
+      "n": 39
+    },
+    {
+      "fonte": "www.lusa.pt",
+      "n": 27
+    },
+    {
+      "fonte": "Expresso",
+      "n": 25
+    },
+    {
+      "fonte": "dn.sapo.pt",
+      "n": 20
+    },
+    {
+      "fonte": "www.bportugal.pt",
+      "n": 17
+    },
+    {
+      "fonte": "tsf.sapo.pt",
+      "n": 17
+    },
+    {
+      "fonte": "www.agenciafinanceira.iol.pt",
+      "n": 17
+    },
+    {
+      "fonte": "www.ionline.pt",
+      "n": 17
+    },
+    {
+      "fonte": "Outros",
+      "n": 1123
+    }
+  ],
+  "publico": {
+    "n_registos": 55,
+    "percentagem_total": 3.9,
+    "nota": "Percentagem dos registos extraidos provenientes do arquivo do Publico.pt"
+  },
+  "confianca_global": {
+    "media_pct": 74.9,
+    "mediana_pct": 78.5,
+    "minimo_pct": 43.3,
+    "maximo_pct": 99.4,
+    "n_pontos_avaliados": 62,
+    "metodo": "Score composto: consistencia(40%) + volume(35%) + relevancia(25%)",
+    "top5_mais_confiaveis": [
+      {
+        "ano": 2003,
+        "cat": "salario",
+        "confianca": 99.4,
+        "n_fontes": 60,
+        "cv": 0.0025
+      },
+      {
+        "ano": 2021,
+        "cat": "salario",
+        "confianca": 99.4,
+        "n_fontes": 10,
+        "cv": 0.007
+      },
+      {
+        "ano": 2017,
+        "cat": "salario",
+        "confianca": 98.0,
+        "n_fontes": 5,
+        "cv": 0.0256
+      },
+      {
+        "ano": 2004,
+        "cat": "salario",
+        "confianca": 97.4,
+        "n_fontes": 54,
+        "cv": 0.0255
+      },
+      {
+        "ano": 2020,
+        "cat": "salario",
+        "confianca": 96.4,
+        "n_fontes": 4,
+        "cv": 0.0
+      }
+    ],
+    "top5_menos_confiaveis": [
+      {
+        "ano": 2014,
+        "cat": "inflacao",
+        "confianca": 43.3,
+        "n_fontes": 2,
+        "cv": 1.4142
+      },
+      {
+        "ano": 2015,
+        "cat": "inflacao",
+        "confianca": 43.3,
+        "n_fontes": 2,
+        "cv": 4.2426
+      },
+      {
+        "ano": 2021,
+        "cat": "inflacao",
+        "confianca": 43.3,
+        "n_fontes": 2,
+        "cv": 1.4142
+      },
+      {
+        "ano": 2012,
+        "cat": "inflacao",
+        "confianca": 46.5,
+        "n_fontes": 2,
+        "cv": 0.9723
+      },
+      {
+        "ano": 2020,
+        "cat": "inflacao",
+        "confianca": 46.5,
+        "n_fontes": 2,
+        "cv": 1.4142
+      }
+    ]
+  },
+  "ide": {
+    "ano_mais_dificil": {
+      "ano": 2005,
+      "ide": 73.5,
+      "confianca": 64.4
+    },
+    "ano_mais_facil": {
+      "ano": 2020,
+      "ide": 31.8,
+      "confianca": 77.8
+    },
+    "por_ano": [
+      {
+        "ano": 1997,
+        "ide": 36.3,
+        "confianca": 65.4
+      },
+      {
+        "ano": 1998,
+        "ide": 50.5,
+        "confianca": 80.7
+      },
+      {
+        "ano": 1999,
+        "ide": 35.8,
+        "confianca": 72.4
+      },
+      {
+        "ano": 2000,
+        "ide": 38.0,
+        "confianca": 82.2
+      },
+      {
+        "ano": 2001,
+        "ide": 39.5,
+        "confianca": 76.4
+      },
+      {
+        "ano": 2002,
+        "ide": 58.0,
+        "confianca": 76.4
+      },
+      {
+        "ano": 2003,
+        "ide": 41.2,
+        "confianca": 81.3
+      },
+      {
+        "ano": 2004,
+        "ide": 42.8,
+        "confianca": 88.1
+      },
+      {
+        "ano": 2005,
+        "ide": 73.5,
+        "confianca": 64.4
+      },
+      {
+        "ano": 2006,
+        "ide": 43.0,
+        "confianca": 84.6
+      },
+      {
+        "ano": 2007,
+        "ide": 52.3,
+        "confianca": 81.4
+      },
+      {
+        "ano": 2008,
+        "ide": 40.6,
+        "confianca": 79.9
+      },
+      {
+        "ano": 2009,
+        "ide": 33.9,
+        "confianca": 74.0
+      },
+      {
+        "ano": 2010,
+        "ide": 54.3,
+        "confianca": 72.3
+      },
+      {
+        "ano": 2011,
+        "ide": 50.7,
+        "confianca": 82.2
+      },
+      {
+        "ano": 2012,
+        "ide": 44.3,
+        "confianca": 62.6
+      },
+      {
+        "ano": 2013,
+        "ide": 36.0,
+        "confianca": 72.3
+      },
+      {
+        "ano": 2014,
+        "ide": 36.0,
+        "confianca": 43.3
+      },
+      {
+        "ano": 2015,
+        "ide": 34.2,
+        "confianca": 64.7
+      },
+      {
+        "ano": 2016,
+        "ide": 36.0,
+        "confianca": 75.4
+      },
+      {
+        "ano": 2017,
+        "ide": 38.4,
+        "confianca": 85.2
+      },
+      {
+        "ano": 2018,
+        "ide": 35.4,
+        "confianca": 80.9
+      },
+      {
+        "ano": 2019,
+        "ide": 50.0,
+        "confianca": 61.4
+      },
+      {
+        "ano": 2020,
+        "ide": 31.8,
+        "confianca": 77.8
+      },
+      {
+        "ano": 2021,
+        "ide": 40.1,
+        "confianca": 71.7
+      }
+    ],
+    "pesos": {
+      "habitacao": 0.35,
+      "salario": 0.3,
+      "combustivel": 0.2,
+      "inflacao": 0.15
+    },
+    "nota_metodologica": "O IDE e calculado sobre medianas de valores extraidos de artigos do Arquivo.pt com relevancia >= 4. Anos sem dados reais usam fallback INE/Pordata/DGEG (identificados por fonte_historica=true no dataset). O salario e invertido na normalizacao (mais salario = menos dificuldade)."
+  },
+  "fontes_historicas": {
+    "habitacao": "INE (IABH 2009-2017; Estatisticas Precos Habitacao 2018-2026); estimativas BPstat/CI para 1996-2008",
+    "combustivel": "DGEG (dgeg-pma-1960-2003.xlsx; dgeg-pma-2004-2025_pt.xlsx) — media Gasolina95+Gasoleo",
+    "salario": "PORDATA — RMMG (Retribuicao Minima Mensal Garantida)",
+    "inflacao": "INE — Taxa de variacao media anual do IPC"
+  }
+}

@@ -1,5 +1,0 @@
-[Modelo] A detectar modelo disponivel...
-[Modelo] X gemini-3.1-flash-lite: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/ge
-[Modelo] X gemini-2.0-flash: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': '
-[Modelo] X gemini-1.5-flash: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/ge
-[ERRO] Nenhum modelo disponivel. Verifica chave API e quota.
